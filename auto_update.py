@@ -672,6 +672,9 @@ def run_update(services=None):
             services.append('anime_episode_type')
         if CONFIG.get('services', {}).get('tv_status_tracker', {}).get('enabled', False):
             services.append('tv_status_tracker')
+        if CONFIG.get('services', {}).get('size_overlay', {}).get('enabled', False):
+            services.append('size_overlay')
+
 
     # Track successful updates
     successful_updates = []
