@@ -281,13 +281,13 @@ class TVStatusTracker:
                                         text_content = f'SEASON FINALE {date_str}'
                                         back_color = self.colors['SEASON_FINALE']
                                     elif episode_type == 'mid_season_finale':
-                                        text_content = f'MID SEASON FINALE {date_str}'
+                                        text_content = f'MID SEAS. FIN. {date_str}'
                                         back_color = self.colors['MID_SEASON_FINALE']
                                     elif episode_type == 'series_finale':
-                                        text_content = f'FINAL EPISODE {date_str}'
+                                        text_content = f'FINAL EP. {date_str}'
                                         back_color = self.colors['FINAL_EPISODE']
                                     elif episode_type == 'season_premiere':
-                                        text_content = f'SEASON PREMIERE {date_str}'
+                                        text_content = f'SEASON PREM. {date_str}'
                                         back_color = self.colors['SEASON_PREMIERE']
                                     else:
                                         text_content = f'AIRING {date_str}'

@@ -3,9 +3,11 @@ services:
     image: ghcr.io/sahara101/dakosys:latest
     container_name: dakosys
     volumes:
-      - ./config:/app/config
-      - ./data:/app/data
-      - /kometa:/kometa
+      - /home/rick/test/Dakosys/config:/app/config
+      - /home/rick/test/Dakosys/data:/app/data
+      - /kometa-config:/home/rick/Kometa/config
+      - /home/rick/Kometa/config/overlays:/home/rick/Kometa/config/overlays
+      - /home/rick/Kometa/config/collections:/home/rick/Kometa/config/collections
     command: --help
     stdin_open: true
     tty: true
@@ -14,8 +16,9 @@ services:
     image: ghcr.io/sahara101/dakosys:latest
     container_name: dakosys-updater
     volumes:
-      - ./config:/app/config
-      - ./data:/app/data
-      - /kometa:/kometa
+      - /home/rick/test/Dakosys/config:/app/config
+      - /home/rick/test/Dakosys/data:/app/data
+      - /home/rick/Kometa/config:/kometa/config
     restart: unless-stopped
     command: daemon
+

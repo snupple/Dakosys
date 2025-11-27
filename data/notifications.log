@@ -1,0 +1,1 @@
+2025-11-27 10:39:22,260 - notifications - ERROR - Failed to send Discord notification chunk: 400 {"embeds": ["Embed size exceeds maximum size of 6000"]}

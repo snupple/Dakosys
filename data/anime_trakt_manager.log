@@ -1,0 +1,55 @@
+2025-11-27 10:25:46 [INFO] Starting scheduler
+2025-11-27 10:25:46 [INFO] Using timezone from config: Australia/Perth
+2025-11-27 10:25:46 [INFO] ==================================================
+2025-11-27 10:25:46 [INFO] DAKOSYS SCHEDULER CONFIGURATION
+2025-11-27 10:25:46 [INFO] ==================================================
+2025-11-27 10:25:46 [INFO] Setting up tv_status_tracker daily schedule at 01:30
+2025-11-27 10:25:46 [INFO] TV/Anime Status Tracker service scheduled successfully
+2025-11-27 10:25:46 [INFO] Setting up size_overlay daily schedule at 01:00
+2025-11-27 10:25:46 [INFO] Size Overlay service scheduled successfully
+2025-11-27 10:25:46 [INFO] Scheduler running...
+2025-11-27 10:25:46 [INFO] Next scheduled runs:
+2025-11-27 10:25:46 [INFO]   - tv_status_tracker: 2025-11-28 01:30:00
+2025-11-27 10:25:46 [INFO]   - size_overlay: 2025-11-28 01:00:00
+2025-11-27 10:26:01 [INFO] Scheduler interrupted by user
+2025-11-27 10:26:01 [INFO] Scheduler stopped.
+2025-11-27 10:26:28 [INFO] Starting automatic update process
+2025-11-27 10:26:28 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 10:26:28 [INFO] Starting TV/Anime Status Tracker service updates
+2025-11-27 10:26:46 [INFO] Update process interrupted by user
+2025-11-27 10:27:08 [INFO] Starting automatic update process
+2025-11-27 10:27:08 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 10:27:08 [INFO] Starting TV/Anime Status Tracker service updates
+2025-11-27 10:27:11 [INFO] Update process interrupted by user
+2025-11-27 10:28:15 [INFO] Starting automatic update process
+2025-11-27 10:28:15 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 10:28:15 [INFO] Starting TV/Anime Status Tracker service updates
+2025-11-27 10:34:08 [INFO] TV/Anime Status Tracker update completed successfully
+2025-11-27 10:34:08 [INFO] Update process complete. Successfully updated: tv_status_tracker
+2025-11-27 11:06:54 [INFO] Starting scheduler
+2025-11-27 11:06:54 [INFO] Using timezone from config: Australia/Perth
+2025-11-27 11:06:54 [INFO] ==================================================
+2025-11-27 11:06:54 [INFO] DAKOSYS SCHEDULER CONFIGURATION
+2025-11-27 11:06:54 [INFO] ==================================================
+2025-11-27 11:06:54 [INFO] Setting up tv_status_tracker daily schedule at 01:30
+2025-11-27 11:06:54 [INFO] TV/Anime Status Tracker service scheduled successfully
+2025-11-27 11:06:54 [INFO] Setting up size_overlay daily schedule at 01:00
+2025-11-27 11:06:54 [INFO] Size Overlay service scheduled successfully
+2025-11-27 11:06:54 [INFO] Scheduler running...
+2025-11-27 11:06:54 [INFO] Next scheduled runs:
+2025-11-27 11:06:54 [INFO]   - tv_status_tracker: 2025-11-28 01:30:00
+2025-11-27 11:06:54 [INFO]   - size_overlay: 2025-11-28 01:00:00
+2025-11-27 11:07:05 [INFO] Scheduler interrupted by user
+2025-11-27 11:07:05 [INFO] Scheduler stopped.
+2025-11-27 11:08:41 [INFO] Starting automatic update process
+2025-11-27 11:08:41 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 11:08:41 [INFO] Starting TV/Anime Status Tracker service updates
+2025-11-27 11:08:50 [INFO] Update process interrupted by user
+2025-11-27 11:36:57 [INFO] Starting automatic update process
+2025-11-27 11:36:57 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 11:36:57 [INFO] Starting TV/Anime Status Tracker service updates
+2025-11-27 11:41:27 [INFO] TV/Anime Status Tracker update completed successfully
+2025-11-27 11:41:27 [INFO] Update process complete. Successfully updated: tv_status_tracker
+2025-11-27 11:49:35 [INFO] Starting automatic update process
+2025-11-27 11:49:35 [INFO] Running TV/Anime Status Tracker service
+2025-11-27 11:49:35 [INFO] Starting TV/Anime Status Tracker service updates

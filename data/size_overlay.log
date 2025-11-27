@@ -1,0 +1,1384 @@
+2025-11-27 10:35:27 [INFO] Size Overlay service started at 2025-11-27 10:35:27
+2025-11-27 10:35:27 [INFO] Connecting to Plex server...
+2025-11-27 10:35:27 [INFO] Connected to Plex server successfully!
+2025-11-27 10:35:27 [INFO] Found 6 libraries in Plex
+2025-11-27 10:35:27 [INFO] Processing movie library: Movies
+2025-11-27 10:35:27 [INFO] Processing movie library 'Movies'...
+2025-11-27 10:35:28 [INFO] Found 685 movies to process
+2025-11-27 10:35:28 [INFO] Processed 50/685 movies (7.3%)
+2025-11-27 10:35:28 [INFO] Processed 100/685 movies (14.6%)
+2025-11-27 10:35:28 [INFO] Processed 150/685 movies (21.9%)
+2025-11-27 10:35:28 [INFO] Processed 200/685 movies (29.2%)
+2025-11-27 10:35:28 [INFO] Processed 250/685 movies (36.5%)
+2025-11-27 10:35:28 [INFO] Processed 300/685 movies (43.8%)
+2025-11-27 10:35:28 [INFO] Processed 350/685 movies (51.1%)
+2025-11-27 10:35:28 [INFO] Processed 400/685 movies (58.4%)
+2025-11-27 10:35:28 [INFO] Processed 450/685 movies (65.7%)
+2025-11-27 10:35:28 [INFO] Processed 500/685 movies (73.0%)
+2025-11-27 10:35:28 [INFO] Processed 550/685 movies (80.3%)
+2025-11-27 10:35:28 [INFO] Processed 600/685 movies (87.6%)
+2025-11-27 10:35:28 [INFO] Processed 650/685 movies (94.9%)
+2025-11-27 10:35:28 [INFO] Processed 685/685 movies (100.0%)
+2025-11-27 10:35:28 [INFO] Processed 685 movies in library 'Movies' with total size of 6708.14 GB
+2025-11-27 10:35:28 [ERROR] Error writing overlay file /home/rick/Kometa/config/overlays/size-overlays-movies.yml: [Errno 13] Permission denied: '/home/rick/Kometa/config/overlays/size-overlays-movies.yml'
+2025-11-27 10:35:28 [INFO] Processing movie library: Movies New
+2025-11-27 10:35:28 [INFO] Processing movie library 'Movies New'...
+2025-11-27 10:35:28 [INFO] Found 0 movies to process
+2025-11-27 10:35:28 [INFO] Processed 0 movies in library 'Movies New' with total size of 0.00 GB
+2025-11-27 10:35:28 [INFO] Processing TV library: TV New
+2025-11-27 10:35:28 [INFO] Processing TV library 'TV New'...
+2025-11-27 10:35:28 [INFO] Found 0 shows to process
+2025-11-27 10:35:28 [INFO] Processed 0 shows with 0 episodes in library 'TV New' with total size of 0.00 GB
+2025-11-27 10:35:28 [INFO] Processing TV library: TV Shows
+2025-11-27 10:35:28 [INFO] Processing TV library 'TV Shows'...
+2025-11-27 10:35:28 [INFO] Found 326 shows to process
+2025-11-27 10:35:29 [INFO] Processed 10/326 shows (3.1%)
+2025-11-27 10:35:29 [INFO] Processed 20/326 shows (6.1%)
+2025-11-27 10:35:30 [INFO] Processed 30/326 shows (9.2%)
+2025-11-27 10:35:31 [INFO] Processed 40/326 shows (12.3%)
+2025-11-27 10:35:31 [INFO] Processed 50/326 shows (15.3%)
+2025-11-27 10:35:31 [INFO] Processed 60/326 shows (18.4%)
+2025-11-27 10:35:31 [INFO] Processed 70/326 shows (21.5%)
+2025-11-27 10:35:32 [INFO] Processed 80/326 shows (24.5%)
+2025-11-27 10:35:32 [INFO] Processed 90/326 shows (27.6%)
+2025-11-27 10:35:33 [INFO] Processed 100/326 shows (30.7%)
+2025-11-27 10:35:33 [INFO] Processed 110/326 shows (33.7%)
+2025-11-27 10:35:33 [INFO] Processed 120/326 shows (36.8%)
+2025-11-27 10:35:34 [INFO] Processed 130/326 shows (39.9%)
+2025-11-27 10:35:34 [INFO] Processed 140/326 shows (42.9%)
+2025-11-27 10:35:34 [INFO] Processed 150/326 shows (46.0%)
+2025-11-27 10:35:34 [INFO] Processed 160/326 shows (49.1%)
+2025-11-27 10:35:35 [INFO] Processed 170/326 shows (52.1%)
+2025-11-27 10:35:35 [INFO] Processed 180/326 shows (55.2%)
+2025-11-27 10:35:35 [INFO] Processed 190/326 shows (58.3%)
+2025-11-27 10:35:35 [INFO] Processed 200/326 shows (61.3%)
+2025-11-27 10:35:35 [INFO] Processed 210/326 shows (64.4%)
+2025-11-27 10:35:36 [INFO] Processed 220/326 shows (67.5%)
+2025-11-27 10:35:36 [INFO] Processed 230/326 shows (70.6%)
+2025-11-27 10:35:36 [INFO] Processed 240/326 shows (73.6%)
+2025-11-27 10:35:36 [INFO] Processed 250/326 shows (76.7%)
+2025-11-27 10:35:37 [INFO] Processed 260/326 shows (79.8%)
+2025-11-27 10:35:37 [INFO] Processed 270/326 shows (82.8%)
+2025-11-27 10:35:37 [INFO] Processed 280/326 shows (85.9%)
+2025-11-27 10:35:37 [INFO] Processed 290/326 shows (89.0%)
+2025-11-27 10:35:37 [INFO] Processed 300/326 shows (92.0%)
+2025-11-27 10:35:38 [INFO] Processed 310/326 shows (95.1%)
+2025-11-27 10:35:38 [INFO] Processed 320/326 shows (98.2%)
+2025-11-27 10:35:38 [INFO] Processed 326/326 shows (100.0%)
+2025-11-27 10:35:38 [INFO] Processed 326 shows with 7694 episodes in library 'TV Shows' with total size of 11357.72 GB
+2025-11-27 10:35:38 [ERROR] Error writing overlay file /home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml: [Errno 13] Permission denied: '/home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml'
+2025-11-27 10:35:38 [INFO] Processing TV library: TV ShowsT
+2025-11-27 10:35:38 [INFO] Processing TV library 'TV ShowsT'...
+2025-11-27 10:35:38 [INFO] Found 7 shows to process
+2025-11-27 10:35:38 [INFO] Processed 7/7 shows (100.0%)
+2025-11-27 10:35:38 [INFO] Processed 7 shows with 86 episodes in library 'TV ShowsT' with total size of 10.47 GB
+2025-11-27 10:35:38 [ERROR] Error writing overlay file /home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml: [Errno 13] Permission denied: '/home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml'
+2025-11-27 10:35:38 [INFO] Size Overlay service completed in 11.0 seconds
+2025-11-27 10:35:38 [INFO] Processed 685 movies and 333 shows with 7780 episodes
+2025-11-27 10:35:38 [INFO] Total media size: 18076.33 GB (+18076.33 GB change)
+2025-11-27 10:35:38 [INFO] Created 0 overlay files
+2025-11-27 10:35:38 [INFO] Skipping notification - no changes to report
+2025-11-27 10:39:10 [INFO] Size Overlay service started at 2025-11-27 10:39:10
+2025-11-27 10:39:10 [INFO] Connecting to Plex server...
+2025-11-27 10:39:10 [INFO] Connected to Plex server successfully!
+2025-11-27 10:39:10 [INFO] Found 6 libraries in Plex
+2025-11-27 10:39:10 [INFO] Processing movie library: Movies
+2025-11-27 10:39:10 [INFO] Processing movie library 'Movies'...
+2025-11-27 10:39:11 [INFO] Found 685 movies to process
+2025-11-27 10:39:11 [INFO] Processed 50/685 movies (7.3%)
+2025-11-27 10:39:11 [INFO] Processed 100/685 movies (14.6%)
+2025-11-27 10:39:11 [INFO] Processed 150/685 movies (21.9%)
+2025-11-27 10:39:11 [INFO] Processed 200/685 movies (29.2%)
+2025-11-27 10:39:11 [INFO] Processed 250/685 movies (36.5%)
+2025-11-27 10:39:11 [INFO] Processed 300/685 movies (43.8%)
+2025-11-27 10:39:11 [INFO] Processed 350/685 movies (51.1%)
+2025-11-27 10:39:11 [INFO] Processed 400/685 movies (58.4%)
+2025-11-27 10:39:11 [INFO] Processed 450/685 movies (65.7%)
+2025-11-27 10:39:11 [INFO] Processed 500/685 movies (73.0%)
+2025-11-27 10:39:11 [INFO] Processed 550/685 movies (80.3%)
+2025-11-27 10:39:11 [INFO] Processed 600/685 movies (87.6%)
+2025-11-27 10:39:11 [INFO] Processed 650/685 movies (94.9%)
+2025-11-27 10:39:11 [INFO] Processed 685/685 movies (100.0%)
+2025-11-27 10:39:11 [INFO] Processed 685 movies in library 'Movies' with total size of 6708.14 GB
+2025-11-27 10:39:11 [INFO] New movie: 3 from Hell (2019) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: 8-Bit Christmas (2021) (1.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The 9th Life of Louis Drax (2016) (8.02 GB)
+2025-11-27 10:39:11 [INFO] New movie: 10½ (2010) (1.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: 12 Monkeys (1995) (9.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: 13 Minutes (2015) (8.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: 20,000 Leagues Under the Sea (1954) (10.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: 21 Bridges (2019) (6.59 GB)
+2025-11-27 10:39:11 [INFO] New movie: 22 July (2018) (6.38 GB)
+2025-11-27 10:39:11 [INFO] New movie: 25 Hill (2011) (1.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: 28 Days Later (2002) (12.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: 28 Weeks Later (2007) (27.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: 1917 (2019) (13.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: 2001: A Space Odyssey (1968) (21.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: A.I. Artificial Intelligence (2001) (18.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: Abigail (2024) (19.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: About a Boy (2002) (9.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Abyss (1989) (24.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Adventures of Priscilla, Queen of the Desert (1994) (10.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Aeronauts (2019) (6.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: After Midnight (2019) (7.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Aftermath (2019) (3.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Afterschool (2008) (1.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: Against the Sun (2014) (1.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Air Strike (2018) (7.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alabama Moon (2009) (6.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alien (1979) (21.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alien: Covenant (2017) (17.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alien: Resurrection (1997) (32.98 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alien: Romulus (2024) (10.60 GB)
+2025-11-27 10:39:11 [INFO] New movie: Alien³ (1992) (39.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: Aliens (1986) (16.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: All Is True (2018) (3.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: All Quiet on the Western Front (2022) (15.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: All Quiet on the Western Front (1930) (1930) (18.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Allelujah (2023) (4.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Amateur (2025) (21.19 GB)
+2025-11-27 10:39:11 [INFO] New movie: Anaconda (1997) (18.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: Anatomy of a Fall (2023) (2.99 GB)
+2025-11-27 10:39:11 [INFO] New movie: Angel at Sea (2009) (0.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Angels & Demons (2009) (10.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Angry Black Girl and Her Monster (2023) (6.51 GB)
+2025-11-27 10:39:11 [INFO] New movie: Anti Matter (2016) (3.49 GB)
+2025-11-27 10:39:11 [INFO] New movie: Apt Pupil (1998) (11.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Aquaman and the Lost Kingdom (2023) (7.52 GB)
+2025-11-27 10:39:11 [INFO] New movie: Armor (2024) (2.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: Army of the Dead (2021) (4.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Arrival II (1998) (1.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ashes in the Snow (2018) (3.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ask a Policeman (1939) (0.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: At Eternity's Gate (2018) (3.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: Attack (1956) (26.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Babadook (2014) (16.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Backdraft 2 (2019) (3.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: Bad Boys: Ride or Die (2024) (20.07 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Bad Guys 2 (2025) (1.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Bag of Marbles (2017) (9.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Banshees of Inisherin (2022) (6.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: Battle of Britain (1969) (8.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Battle of the Bulge (1965) (10.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Battle of the Rails (1946) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Battleship (2012) (13.87 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Battleship Island (2017) (8.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: Beast (2022) (6.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Beau Is Afraid (2023) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Beautiful Boy (2018) (20.09 GB)
+2025-11-27 10:39:11 [INFO] New movie: Bee Gees: One Night Only (1997) (20.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: Beetlejuice Beetlejuice (2024) (11.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: Belfast (2021) (5.04 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ben-Hur (2016) (11.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Beneath Hill 60 (2010) (9.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Big Red One (1980) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Billy Elliot (2000) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Black Bag (2025) (15.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Black Phone (2021) (3.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Black Phone 2 (2025) (19.87 GB)
+2025-11-27 10:39:11 [INFO] New movie: Black Sheep (2006) (5.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Blade Runner (1982) (13.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Blade Runner 2049 (2017) (19.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Blink Twice (2024) (18.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Blue Beetle (2023) (6.50 GB)
+2025-11-27 10:39:11 [INFO] New movie: Bohemian Rhapsody (2018) (14.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Das Boot (1981) (16.01 GB)
+2025-11-27 10:39:11 [INFO] New movie: Borat Subsequent Moviefilm (2020) (1.51 GB)
+2025-11-27 10:39:11 [INFO] New movie: Borderlands (2024) (17.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Boss Level (2021) (1.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Boy (2010) (4.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Boy in the Striped Pajamas (2008) (18.35 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Boy in the Woods (2023) (6.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Boy Kills World (2024) (12.03 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Boy with Green Hair (1948) (0.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Boy, the Mole, the Fox and the Horse (2022) (0.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Boys Are Back (2009) (1.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: Brazil (1985) (10.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Breakheart Pass (1975) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Bridge at Remagen (1969) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Bridge Too Far (1977) (3.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Bridges at Toko-Ri (1954) (15.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Bring Him to Me (2023) (4.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: Broadcast Signal Intrusion (2021) (7.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: Burning at Both Ends (2021) (2.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Butterfly Tree (2017) (7.66 GB)
+2025-11-27 10:39:11 [INFO] New movie: C'mon C'mon (2021) (16.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Call of the Wild (2020) (6.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Captain America: Brave New World (2025) (20.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: Captains of the Clouds (1942) (2.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: Captive State (2019) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Carriers (2009) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Cassandra Crossing (1976) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Castle in the Sky (1986) (10.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Cerebrum (2021) (7.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: Chaos Walking (2021) (5.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: Chappie (2015) (14.50 GB)
+2025-11-27 10:39:11 [INFO] New movie: Chosen (2016) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Christmas Quest (2024) (4.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Christopher Robin (2018) (4.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Chronicles of Narnia: Prince Caspian (2008) (10.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Circle (2015) (3.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Civil War (2024) (19.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Client (1994) (4.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Close Encounters of the Third Kind (1977) (34.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Clown in a Cornfield (2025) (10.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Coldest Game (2019) (1.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Collective (2023) (5.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Colony (2021) (5.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Come What May (2015) (3.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Concorde... Airport '79 (1979) (1.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: Concrete Utopia (2023) (6.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: Contact (1997) (27.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Convert (2024) (15.50 GB)
+2025-11-27 10:39:11 [INFO] New movie: Coraline (2009) (5.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Crazies (2010) (7.18 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Critic (2024) (9.96 GB)
+2025-11-27 10:39:11 [INFO] New movie: Cross of Iron (1977) (8.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Crouching Tiger, Hidden Dragon (2000) (23.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Crow (2024) (19.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Cruel Sea (1953) (2.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Cry Macho (2021) (6.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Cure (1995) (7.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: D-Day the Sixth of June (1956) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Da 5 Bloods (2020) (7.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Da Vinci Code (2006) (12.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Dam Busters (1955) (13.12 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dangerous Animals (2025) (10.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Dark and the Wicked (2020) (4.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dark City (1998) (24.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dark Star (1974) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dark Water (2005) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: David Attenborough: A Life on Our Planet (2020) (4.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Dead Don't Die (2019) (8.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dead Night (2018) (3.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dead Silence (2007) (8.03 GB)
+2025-11-27 10:39:11 [INFO] New movie: Death on the Nile (2022) (18.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: December Boys (2007) (1.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: Defiance (2008) (10.91 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Desert Fox: The Story of Rommel (1951) (6.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Despicable Me 2 (2013) (12.52 GB)
+2025-11-27 10:39:11 [INFO] New movie: Despicable Me 4 (2024) (8.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Devil All the Time (2020) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Devil's Candy (2016) (8.45 GB)
+2025-11-27 10:39:11 [INFO] New movie: Devotion (2022) (9.98 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Dig (2021) (7.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: District 9 (2009) (2.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: Doctor Strange in the Multiverse of Madness (2022) (9.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Domestics (2018) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Don't Breathe 2 (2021) (4.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dr. No (1962) (14.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dream Scenario (2023) (3.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Dry (2021) (4.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dune (1984) (10.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dune Drifter (2020) (6.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dungeons & Dragons: Honor Among Thieves (2023) (2.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dunkirk (2017) (26.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Dunkirk (1958) (1958) (2.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: E.T. (1982) (11.45 GB)
+2025-11-27 10:39:11 [INFO] New movie: The East (2020) (9.66 GB)
+2025-11-27 10:39:11 [INFO] New movie: Elemental (2023) (1.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Elvis (2022) (3.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: Emperor of the North (1973) (6.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: The End We Start From (2023) (1.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ender's Game (2013) (19.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: Enemy at the Gates (2001) (23.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Enemy Below (1957) (4.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Equalizer 2 (2018) (4.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Equalizer 3 (2023) (1.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Escape from Germany (2024) (5.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: Escape Room: Tournament of Champions (2021) (3.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: Event Horizon (1997) (2.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Every Time I Die (2019) (3.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Exception (2017) (9.69 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Exorcist (1973) (41.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: Expend4bles (2023) (4.18 GB)
+2025-11-27 10:39:11 [INFO] New movie: Explorers (1985) (4.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Extraction II (2023) (2.52 GB)
+2025-11-27 10:39:11 [INFO] New movie: Extremely Loud & Incredibly Close (2011) (21.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Eyes of My Mother (2016) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: F1: The Movie (2025) (34.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: F9: The Fast Saga (2021) (10.87 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fabelmans (2022) (8.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fall Guy (2024) (11.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fanny's Journey (2016) (24.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fantastic Beasts and Where to Find Them (2016) (9.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fantastic Beasts: The Crimes of Grindelwald (2018) (9.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fantastic Four: First Steps (2025) (12.51 GB)
+2025-11-27 10:39:11 [INFO] New movie: Farewell, Mr. Haffmann (2022) (2.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fast & Furious Presents: Hobbs & Shaw (2019) (3.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fast Five (2011) (4.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Father (2020) (3.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fear Street: Part Three - 1666 (2021) (5.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: Feast (2005) (20.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ferrari (2023) (2.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fifth Element (1997) (12.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: Final Destination (2000) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Final Destination 5 (2011) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Finding 'Ohana (2021) (9.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Flash (2023) (30.24 GB)
+2025-11-27 10:39:11 [INFO] New movie: Flight Command (1940) (1.38 GB)
+2025-11-27 10:39:11 [INFO] New movie: Flight Risk (2025) (1.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fly (1986) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fly Me to the Moon (2024) (22.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Force 10 from Navarone (1978) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Force of Nature: The Dry 2 (2024) (15.01 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Forever Purge (2021) (17.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Forgotten Battle (2020) (5.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Fourth Kind (2009) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Framed (2009) (1.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: Frankenstein (2025) (13.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Free Guy (2021) (4.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Friday the 13th Part VI: Jason Lives (1986) (5.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fugitive Pieces (2007) (1.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: Furiosa: A Mad Max Saga (2024) (13.12 GB)
+2025-11-27 10:39:11 [INFO] New movie: Furious 7 (2015) (4.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Fury (2014) (20.79 GB)
+2025-11-27 10:39:11 [INFO] New movie: Galaxy of Terror (1981) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Gamer (2009) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Gattaca (1997) (3.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Gentlemen (2020) (8.24 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Ghost Train (1941) (0.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ghostbusters (1984) (2.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Girl in the Spider's Web (2018) (3.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Gladiator (2000) (24.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Gladiator II (2024) (16.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: The God Committee (2021) (6.22 GB)
+2025-11-27 10:39:11 [INFO] New movie: God's Country (2022) (5.07 GB)
+2025-11-27 10:39:11 [INFO] New movie: Godzilla Minus One (2023) (16.45 GB)
+2025-11-27 10:39:11 [INFO] New movie: Godzilla x Kong: The New Empire (2024) (13.42 GB)
+2025-11-27 10:39:11 [INFO] New movie: Good Boy (2025) (7.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Good Liar (2019) (3.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: Goodbye Christopher Robin (2017) (4.13 GB)
+2025-11-27 10:39:11 [INFO] New movie: Goodnight Mr Tom (1998) (1.58 GB)
+2025-11-27 10:39:11 [INFO] New movie: Gran Turismo (2023) (8.03 GB)
+2025-11-27 10:39:11 [INFO] New movie: Grave of the Fireflies (1988) (11.60 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Great Escape (1963) (13.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Great Escaper (2023) (3.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Great Locomotive Chase (1956) (1.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Great Train Robbery (1978) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Great Wall (2016) (3.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Greatest Showman (2017) (12.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Green Knight (2021) (6.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Green Mile (1999) (22.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: Greenland (2020) (5.18 GB)
+2025-11-27 10:39:11 [INFO] New movie: Greta (2019) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Guadalcanal Diary (1943) (1.35 GB)
+2025-11-27 10:39:11 [INFO] New movie: Guns Akimbo (2020) (6.09 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Guns of Navarone (1961) (12.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Guy Named Joe (1943) (3.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Halloween (1978) (18.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Halloween H20: 20 Years Later (1998) (6.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Halloween II (1981) (7.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Halloween III: Season of the Witch (1982) (3.96 GB)
+2025-11-27 10:39:11 [INFO] New movie: Halloween Kills (2021) (5.45 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hanna (2011) (9.49 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Chamber of Secrets (2002) (18.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Deathly Hallows: Part 1 (2010) (17.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Deathly Hallows: Part 2 (2011) (15.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Goblet of Fire (2005) (18.42 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Half-Blood Prince (2009) (17.96 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Order of the Phoenix (2007) (16.19 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Prisoner of Azkaban (2004) (16.59 GB)
+2025-11-27 10:39:11 [INFO] New movie: Harry Potter and the Sorcerer's Stone (2001) (21.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Haunted Mansion (2023) (2.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Head Hunter (2019) (13.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hell House LLC (2015) (7.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hell, Heaven or Hoboken (1958) (1.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hellion (2014) (18.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Heroes of Telemark (1965) (5.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Hidden Life (2019) (7.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hide Your Smiling Faces (2014) (2.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: High Crimes (2002) (29.19 GB)
+2025-11-27 10:39:11 [INFO] New movie: His House (2020) (1.69 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Hobbit: An Unexpected Journey (2012) (19.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Hobbit: The Battle of the Five Armies (2014) (21.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Hobbit: The Desolation of Smaug (2013) (21.32 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Holdovers (2023) (67.26 GB)
+2025-11-27 10:39:11 [INFO] New movie: Holland (2025) (11.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: Honey Boy (2019) (6.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: A House of Dynamite (2025) (20.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: How to Blow Up a Pipeline (2023) (7.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: How to Train Your Dragon (2025) (16.49 GB)
+2025-11-27 10:39:11 [INFO] New movie: Howl's Moving Castle (2004) (10.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hugo (2011) (26.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Hunger Games: The Ballad of Songbirds & Snakes (2023) (2.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Hunt for Red October (1990) (18.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hunter Killer (2018) (12.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hush (2016) (2.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: Hyena Road (2015) (7.59 GB)
+2025-11-27 10:39:11 [INFO] New movie: I Am David (2003) (1.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: I Know What You Did Last Summer (2025) (12.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: I, Robot (2004) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: IF (2024) (11.33 GB)
+2025-11-27 10:39:11 [INFO] New movie: Imaginary (2024) (3.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Imitation Game (2014) (24.07 GB)
+2025-11-27 10:39:11 [INFO] New movie: In the Lost Lands (2025) (10.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: In the Shadow of the Moon (2019) (3.42 GB)
+2025-11-27 10:39:11 [INFO] New movie: In Which We Serve (1942) (2.19 GB)
+2025-11-27 10:39:11 [INFO] New movie: Indiana Jones and the Kingdom of the Crystal Skull (2008) (8.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Indiana Jones and the Last Crusade (1989) (26.13 GB)
+2025-11-27 10:39:11 [INFO] New movie: Inferno (2016) (1.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: Infinite (2021) (3.57 GB)
+2025-11-27 10:39:11 [INFO] New movie: Insert Coin (2020) (4.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Inside (2025) (7.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Intergalactic Adventures of Max Cloud (2020) (5.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Into the White (2012) (8.32 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Inventor (2023) (2.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Irishman (2019) (11.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Island on Bird Street (1997) (6.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: It (2017) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: It Happened to Jane (1959) (8.18 GB)
+2025-11-27 10:39:11 [INFO] New movie: It: Chapter Two (2019) (9.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jaws (1975) (13.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: Johnny English Strikes Again (2018) (7.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jojo Rabbit (2019) (6.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: Joker (2019) (18.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Joker: Folie à Deux (2024) (19.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jules (2023) (1.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jumanji (1995) (8.57 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jurassic World: Dominion (2022) (9.87 GB)
+2025-11-27 10:39:11 [INFO] New movie: Jurassic World: Rebirth (2025) (23.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: Juror #2 (2024) (19.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: K-12 (2019) (1.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Keep (1983) (4.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: Kenneth Williams: Fantabulosa! (2006) (1.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Kid with a Bike (2011) (8.99 GB)
+2025-11-27 10:39:11 [INFO] New movie: Kidnapped (2023) (14.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Killer (2024) (13.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: Killers of the Flower Moon (2023) (13.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Killing Fields (1984) (11.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: King Jack (2015) (2.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: The King of Staten Island (2020) (9.58 GB)
+2025-11-27 10:39:11 [INFO] New movie: King of Thieves (2018) (8.69 GB)
+2025-11-27 10:39:11 [INFO] New movie: The King's Speech (2010) (11.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: Kraven the Hunter (2024) (13.79 GB)
+2025-11-27 10:39:11 [INFO] New movie: Krull (1983) (16.13 GB)
+2025-11-27 10:39:11 [INFO] New movie: Lamb (2021) (5.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: Lamb (1986) (1986) (4.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Land (2021) (4.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Last Duel (2021) (5.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Last Man (2019) (5.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Last Vermeer (2019) (9.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: Late Night with the Devil (2023) (5.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: Leave (2022) (5.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Legend of Ochi (2025) (13.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: Lessons at the End of Spring (1991) (0.58 GB)
+2025-11-27 10:39:11 [INFO] New movie: Let Him Go (2020) (3.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Life of Pi (2012) (27.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Light of My Life (2019) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lighthouse (2019) (4.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: Limitless (2011) (8.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lion King (2019) (8.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: Lo and Behold: Reveries of the Connected World (2016) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Logan Lucky (2017) (4.09 GB)
+2025-11-27 10:39:11 [INFO] New movie: Logan's Run (1976) (10.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Long Day Closes (1992) (1.59 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Longest Day (1962) (22.04 GB)
+2025-11-27 10:39:11 [INFO] New movie: Looper (2012) (9.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lorax (2012) (2.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lord of the Rings: The Fellowship of the Ring (2001) (26.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lord of the Rings: The Return of the King (2003) (30.91 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lord of the Rings: The Two Towers (2002) (27.60 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lost Battalion (2001) (4.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Lost City (2022) (5.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: Love Actually (2003) (31.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: Love and Monsters (2020) (53.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Machine (2023) (7.12 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mad Max (1979) (19.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mad Max Beyond Thunderdome (1985) (14.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mad Max: Fury Road (2015) (38.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Major Grom: Plague Doctor (2021) (9.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Malignant (2021) (2.13 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mama (2013) (13.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Man Escaped (1956) (4.13 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Martian (2015) (22.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Matrix (1999) (16.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Matrix Reloaded (2003) (27.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Matrix Resurrections (2021) (18.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Matrix Revolutions (2003) (26.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: MaXXXine (2024) (18.21 GB)
+2025-11-27 10:39:11 [INFO] New movie: May December (2023) (3.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mayday (2021) (4.92 GB)
+2025-11-27 10:39:11 [INFO] New movie: Meander (2021) (11.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Medieval (2022) (5.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: Meg 2: The Trench (2023) (6.45 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Meyerowitz Stories (2017) (6.18 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mickybo and Me (2005) (1.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mid90s (2018) (2.98 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Midnight Meat Train (2008) (24.96 GB)
+2025-11-27 10:39:11 [INFO] New movie: Midnight Special (2016) (3.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Mighty (1998) (9.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Migration (2023) (52.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mile 22 (2018) (3.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: Millions (2004) (1.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Minecraft Movie (2025) (10.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mira (2022) (16.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: Misery (1990) (9.04 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mission of Honor (2018) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monkey Man (2024) (10.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monos (2019) (8.12 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Monster Calls (2016) (6.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monty Python and the Holy Grail (1975) (17.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monty Python's and Now for Something Completely Different (1971) (2.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monty Python's Life of Brian (1979) (9.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: Monty Python's the Meaning of Life (1983) (10.96 GB)
+2025-11-27 10:39:11 [INFO] New movie: Moon (2009) (16.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: Morbius (2022) (41.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: Motherless Brooklyn (2019) (10.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mowgli: Legend of the Jungle (2018) (4.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mr. Harrigan's Phone (2022) (5.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mr. Nobody (2009) (27.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: Mud (2013) (16.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Mule (2018) (4.03 GB)
+2025-11-27 10:39:11 [INFO] New movie: My Childhood (1972) (3.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: My Spy (2020) (7.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: My Way Home (1978) (4.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: Napoleon (2023) (3.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: The New Boy (2023) (1.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: News of the World (2020) (6.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: Next Exit (2022) (5.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Night House (2021) (5.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: No Man of God (2021) (7.36 GB)
+2025-11-27 10:39:11 [INFO] New movie: No Time to Die (2021) (11.07 GB)
+2025-11-27 10:39:11 [INFO] New movie: North West Frontier (1959) (16.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: Northern Limit Line (2015) (0.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Northman (2022) (11.99 GB)
+2025-11-27 10:39:11 [INFO] New movie: Nowhere Special (2020) (12.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: Occupation: Rainfall (2020) (4.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ocean with David Attenborough (2025) (6.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Oh, Mr. Porter! (1937) (0.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Old Man & the Gun (2018) (4.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: Oliver! (1968) (21.50 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Omen (1976) (6.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: On a Clear Day (2005) (7.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: On the Line (2022) (4.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: One Life (2023) (19.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Operation Disaster (1950) (0.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Oppenheimer (2023) (36.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Orbiter 9 (2017) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Outlaw King (2018) (5.21 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Outpost (2020) (6.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pacific Rim (2013) (12.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Paddington 2 (2017) (14.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: Paddington in Peru (2024) (18.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Painted Bird (2019) (7.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: Parallel (2024) (1.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Peanut Butter Falcon (2019) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pellet (2000) (16.33 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Penguin Lessons (2025) (18.91 GB)
+2025-11-27 10:39:11 [INFO] New movie: Peppermint (2018) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Perfect Nanny (2019) (4.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Personal History of David Copperfield (2019) (8.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: Peter and the Farm (2016) (5.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: Peter Pan & Wendy (2023) (1.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: Peter Rabbit 2: The Runaway (2021) (3.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Phantom of the Open (2021) (7.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Philadelphia Experiment (2012) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Phoenician Scheme (2025) (17.51 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pig (2021) (4.49 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pinocchio (2022) (5.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pinocchio (2019) (2019) (10.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Plane (2023) (5.32 GB)
+2025-11-27 10:39:11 [INFO] New movie: Playdate (2025) (10.07 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Polar Express (2004) (7.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: Poltergeist (1982) (21.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: Poltergeist (2015) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Poltergeist II: The Other Side (1986) (10.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Poltergeist III (1988) (10.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: Pompeii (2014) (7.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: Poor Things (2023) (10.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Portals (2019) (3.01 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Postman (1997) (2.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Predator (2018) (3.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: Presence (2025) (11.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Prestige (2006) (26.06 GB)
+2025-11-27 10:39:11 [INFO] New movie: Prometheus (2012) (14.48 GB)
+2025-11-27 10:39:11 [INFO] New movie: Proximity (2020) (5.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Quest (1986) (1.50 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Quiet Place (2018) (10.57 GB)
+2025-11-27 10:39:11 [INFO] New movie: Radioactive (2020) (5.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: Raid on Rommel (1971) (7.32 GB)
+2025-11-27 10:39:11 [INFO] New movie: Raiders of the Lost Ark (1981) (10.38 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rails & Ties (2007) (7.03 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Railway Children (2000) (8.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rambo: Last Blood (2019) (4.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rampage (2018) (3.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Reach for the Sky (1956) (1.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ready? OK! (2008) (0.68 GB)
+2025-11-27 10:39:11 [INFO] New movie: Real Steel (2011) (2.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Reaper Man (2023) (0.99 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rebel Moon - Part One: A Child of Fire (2023) (19.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rebel Moon - Part Two: The Scargiver (2024) (4.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rebel Ridge (2024) (1.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Red Cliff (2008) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Red Dog: True Blue (2016) (1.69 GB)
+2025-11-27 10:39:11 [INFO] New movie: Red Joan (2018) (3.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: Red Riding: The Year of Our Lord 1980 (2009) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Reminiscence (2021) (7.28 GB)
+2025-11-27 10:39:11 [INFO] New movie: Renfield (2023) (4.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Rescue (2020) (7.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Resident Evil (2002) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Resident Evil: Extinction (2007) (7.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Resident Evil: The Final Chapter (2016) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Retribution (2023) (1.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Right at Your Door (2006) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Ritual (2017) (3.30 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Road Warrior (1981) (16.14 GB)
+2025-11-27 10:39:11 [INFO] New movie: Robert the Bruce (2019) (4.32 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rocketman (2019) (4.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rogue One: A Star Wars Story (2016) (15.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Room for Romeo Brass (1999) (0.82 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ruby Gillman: Teenage Kraken (2023) (4.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Run (2020) (7.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Runaway Train (1985) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Rust (2025) (10.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sanctuary (2023) (2.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: Saving Private Ryan (1998) (20.22 GB)
+2025-11-27 10:39:11 [INFO] New movie: Schumacher (2021) (5.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: Searching for Bobby Fischer (1993) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: Second Best (1994) (3.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Secret Garden (2020) (4.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Selfish Giant (2013) (1.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: Serenity (2005) (9.84 GB)
+2025-11-27 10:39:11 [INFO] New movie: Shaun of the Dead (2004) (7.94 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Shawshank Redemption (1994) (28.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Shazam! Fury of the Gods (2023) (11.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: Shelby Oaks (2025) (9.79 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sherlock Holmes: A Game of Shadows (2011) (14.15 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Shining (1980) (42.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Shoot 'Em Up (2007) (7.20 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sick (2022) (4.34 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Signalman (1976) (0.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Silent Night (2021) (1.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: Silent Running (1972) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sinbad and the Eye of the Tiger (1977) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Singin' in the Rain (1952) (7.66 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sisu (2022) (3.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: Slender Man (2018) (10.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Slumberland (2022) (4.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: Small Things Like These (2024) (10.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: Snake Eyes (2021) (5.33 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sniper: The White Raven (2022) (6.67 GB)
+2025-11-27 10:39:11 [INFO] New movie: Solo: A Star Wars Story (2018) (10.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Son (2022) (6.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Son of Rambow (2007) (7.57 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Song of Names (2019) (3.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Space Between Us (2017) (8.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Spaceman (2024) (3.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Speak (2004) (1.77 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Specials (2019) (4.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: Spitfire (2018) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Spy Who Dumped Me (2018) (4.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: Stalag 17 (1953) (9.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Stalingrad (1993) (2.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: Stand by Me (1986) (10.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Standoff at Sparrow Creek (2019) (3.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek II: The Wrath of Khan (1982) (2.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek III: The Search for Spock (1984) (2.08 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek Into Darkness (2013) (8.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek IV: The Voyage Home (1986) (2.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek V: The Final Frontier (1989) (2.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek VI: The Undiscovered Country (1991) (22.87 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: First Contact (1996) (2.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: Generations (1994) (2.47 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: Insurrection (1998) (2.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: Nemesis (2002) (2.31 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: Section 31 (2025) (9.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Trek: The Motion Picture (1979) (2.23 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars (1977) (15.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode I - The Phantom Menace (1999) (17.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode II - Attack of the Clones (2002) (17.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode III - Revenge of the Sith (2005) (21.09 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode V - The Empire Strikes Back (1980) (20.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode VI - Return of the Jedi (1983) (23.63 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode VII - The Force Awakens (2015) (16.24 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: Episode VIII - The Last Jedi (2017) (17.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: Star Wars: The Rise Of Skywalker (2019) (16.98 GB)
+2025-11-27 10:39:11 [INFO] New movie: Starship Troopers (1997) (22.83 GB)
+2025-11-27 10:39:11 [INFO] New movie: Stillwater (2021) (9.71 GB)
+2025-11-27 10:39:11 [INFO] New movie: Storm Boy (2019) (3.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Stowaway (2021) (4.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: Strawberry Mansion (2021) (1.52 GB)
+2025-11-27 10:39:11 [INFO] New movie: Summer of 84 (2018) (3.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sunset (2018) (7.79 GB)
+2025-11-27 10:39:11 [INFO] New movie: Sunshine (2007) (23.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Super 8 (2011) (15.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Superintelligence (2020) (6.38 GB)
+2025-11-27 10:39:11 [INFO] New movie: Superman (2025) (19.29 GB)
+2025-11-27 10:39:11 [INFO] New movie: T-34 (2018) (8.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Tangle (2019) (3.58 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tarot (2024) (9.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Teenage Mutant Ninja Turtles: Mutant Mayhem (2023) (6.76 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Ten Commandments (1956) (6.99 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminal (2018) (6.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Terminator (1984) (12.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminator 2: Judgment Day (1991) (37.41 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminator 3: Rise of the Machines (2003) (22.79 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminator Genisys (2015) (14.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminator Salvation (2009) (16.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terminator: Dark Fate (2019) (19.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Terrifier (2016) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tesla (2020) (9.39 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tetsuo: The Iron Man (1989) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: They Live (1988) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: They Look Like People (2016) (3.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Thursday Murder Club (2025) (0.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: THX 1138 (1971) (11.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: Til Death Do Us Part (2023) (7.81 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Titfield Thunderbolt (1953) (5.46 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tolkien (2019) (3.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tora! Tora! Tora! (1970) (4.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Train (1964) (1.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: Treasure (2024) (9.62 GB)
+2025-11-27 10:39:11 [INFO] New movie: Treeless Mountain (2008) (1.09 GB)
+2025-11-27 10:39:11 [INFO] New movie: Tremors (1990) (21.61 GB)
+2025-11-27 10:39:11 [INFO] New movie: Triangle (2009) (7.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: Triple Frontier (2019) (4.43 GB)
+2025-11-27 10:39:11 [INFO] New movie: Trolls Band Together (2023) (5.57 GB)
+2025-11-27 10:39:11 [INFO] New movie: Twelve O'Clock High (1949) (10.85 GB)
+2025-11-27 10:39:11 [INFO] New movie: Twister (1996) (15.21 GB)
+2025-11-27 10:39:11 [INFO] New movie: Twisters (2024) (21.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: U-571 (2000) (9.19 GB)
+2025-11-27 10:39:11 [INFO] New movie: Ultrasound (2022) (5.16 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Unlikely Pilgrimage of Harold Fry (2023) (1.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Unstoppable (2010) (14.90 GB)
+2025-11-27 10:39:11 [INFO] New movie: Up Periscope (1959) (0.60 GB)
+2025-11-27 10:39:11 [INFO] New movie: USS Indianapolis: Men of Courage (2016) (8.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: V/H/S (2012) (7.95 GB)
+2025-11-27 10:39:11 [INFO] New movie: V/H/S/2 (2013) (7.11 GB)
+2025-11-27 10:39:11 [INFO] New movie: Valkyrie (2008) (5.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: Velvet Buzzsaw (2019) (3.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: Venom: Let There Be Carnage (2021) (4.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: Veronica (2017) (7.66 GB)
+2025-11-27 10:39:11 [INFO] New movie: Videodrome (1983) (6.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: Volition (2019) (4.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Von Ryan's Express (1965) (8.75 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wake Wood (2011) (6.56 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Walk in the Sun (1945) (17.33 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Wall (2017) (9.78 GB)
+2025-11-27 10:39:11 [INFO] New movie: The War (1994) (27.97 GB)
+2025-11-27 10:39:11 [INFO] New movie: The War Below (2021) (6.55 GB)
+2025-11-27 10:39:11 [INFO] New movie: War of the Worlds (2005) (13.66 GB)
+2025-11-27 10:39:11 [INFO] New movie: Warfare (2025) (16.37 GB)
+2025-11-27 10:39:11 [INFO] New movie: WarGames (1983) (18.54 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Water Man (2020) (5.44 GB)
+2025-11-27 10:39:11 [INFO] New movie: We Need to Do Something (2021) (8.40 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wendell & Wild (2022) (3.53 GB)
+2025-11-27 10:39:11 [INFO] New movie: A Werewolf Boy (2012) (8.74 GB)
+2025-11-27 10:39:11 [INFO] New movie: Where's That Fire? (1939) (0.25 GB)
+2025-11-27 10:39:11 [INFO] New movie: Whole New Thing (2005) (1.64 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Wild Robot (2024) (11.10 GB)
+2025-11-27 10:39:11 [INFO] New movie: Windbag the Sailor (1936) (0.93 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wish (2023) (7.05 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Wolfman (2010) (8.49 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wolfs (2024) (18.88 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wonder (2017) (10.72 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wonder Woman 1984 (2020) (2.73 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Wonderful Story of Henry Sugar (2023) (0.70 GB)
+2025-11-27 10:39:11 [INFO] New movie: The World's End (2013) (8.80 GB)
+2025-11-27 10:39:11 [INFO] New movie: The World's Fastest Indian (2005) (13.17 GB)
+2025-11-27 10:39:11 [INFO] New movie: Wrath of Man (2021) (13.86 GB)
+2025-11-27 10:39:11 [INFO] New movie: Yesterday (2019) (4.00 GB)
+2025-11-27 10:39:11 [INFO] New movie: You Won't Be Alone (2022) (8.27 GB)
+2025-11-27 10:39:11 [INFO] New movie: Young Hearts (2024) (2.98 GB)
+2025-11-27 10:39:11 [INFO] New movie: The Young Poisoner's Handbook (1995) (0.89 GB)
+2025-11-27 10:39:11 [INFO] New movie: Your Name. (2016) (4.51 GB)
+2025-11-27 10:39:11 [INFO] New movie: Zombieland: Double Tap (2019) (7.65 GB)
+2025-11-27 10:39:11 [INFO] New movie: Zone 414 (2021) (3.25 GB)
+2025-11-27 10:39:11 [INFO] Removed movie: All Quiet on the Western Front (1930) (18.65 GB)
+2025-11-27 10:39:11 [INFO] Removed movie: Dunkirk (1958) (2.37 GB)
+2025-11-27 10:39:11 [INFO] Removed movie: Lamb (1986) (4.20 GB)
+2025-11-27 10:39:11 [INFO] Removed movie: Pinocchio (2019) (10.68 GB)
+2025-11-27 10:39:11 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-movies.yml
+2025-11-27 10:39:11 [INFO] Processing movie library: Movies New
+2025-11-27 10:39:11 [INFO] Processing movie library 'Movies New'...
+2025-11-27 10:39:11 [INFO] Found 0 movies to process
+2025-11-27 10:39:11 [INFO] Processed 0 movies in library 'Movies New' with total size of 0.00 GB
+2025-11-27 10:39:11 [INFO] Processing TV library: TV New
+2025-11-27 10:39:11 [INFO] Processing TV library 'TV New'...
+2025-11-27 10:39:11 [INFO] Found 0 shows to process
+2025-11-27 10:39:11 [INFO] Processed 0 shows with 0 episodes in library 'TV New' with total size of 0.00 GB
+2025-11-27 10:39:11 [INFO] Processing TV library: TV Shows
+2025-11-27 10:39:11 [INFO] Processing TV library 'TV Shows'...
+2025-11-27 10:39:12 [INFO] Found 326 shows to process
+2025-11-27 10:39:12 [INFO] Processed 10/326 shows (3.1%)
+2025-11-27 10:39:12 [INFO] Processed 20/326 shows (6.1%)
+2025-11-27 10:39:13 [INFO] Processed 30/326 shows (9.2%)
+2025-11-27 10:39:14 [INFO] Processed 40/326 shows (12.3%)
+2025-11-27 10:39:14 [INFO] Processed 50/326 shows (15.3%)
+2025-11-27 10:39:14 [INFO] Processed 60/326 shows (18.4%)
+2025-11-27 10:39:14 [INFO] Processed 70/326 shows (21.5%)
+2025-11-27 10:39:15 [INFO] Processed 80/326 shows (24.5%)
+2025-11-27 10:39:15 [INFO] Processed 90/326 shows (27.6%)
+2025-11-27 10:39:16 [INFO] Processed 100/326 shows (30.7%)
+2025-11-27 10:39:16 [INFO] Processed 110/326 shows (33.7%)
+2025-11-27 10:39:16 [INFO] Processed 120/326 shows (36.8%)
+2025-11-27 10:39:17 [INFO] Processed 130/326 shows (39.9%)
+2025-11-27 10:39:17 [INFO] Processed 140/326 shows (42.9%)
+2025-11-27 10:39:17 [INFO] Processed 150/326 shows (46.0%)
+2025-11-27 10:39:17 [INFO] Processed 160/326 shows (49.1%)
+2025-11-27 10:39:18 [INFO] Processed 170/326 shows (52.1%)
+2025-11-27 10:39:18 [INFO] Processed 180/326 shows (55.2%)
+2025-11-27 10:39:18 [INFO] Processed 190/326 shows (58.3%)
+2025-11-27 10:39:18 [INFO] Processed 200/326 shows (61.3%)
+2025-11-27 10:39:18 [INFO] Processed 210/326 shows (64.4%)
+2025-11-27 10:39:19 [INFO] Processed 220/326 shows (67.5%)
+2025-11-27 10:39:19 [INFO] Processed 230/326 shows (70.6%)
+2025-11-27 10:39:19 [INFO] Processed 240/326 shows (73.6%)
+2025-11-27 10:39:19 [INFO] Processed 250/326 shows (76.7%)
+2025-11-27 10:39:19 [INFO] Processed 260/326 shows (79.8%)
+2025-11-27 10:39:20 [INFO] Processed 270/326 shows (82.8%)
+2025-11-27 10:39:20 [INFO] Processed 280/326 shows (85.9%)
+2025-11-27 10:39:20 [INFO] Processed 290/326 shows (89.0%)
+2025-11-27 10:39:20 [INFO] Processed 300/326 shows (92.0%)
+2025-11-27 10:39:21 [INFO] Processed 310/326 shows (95.1%)
+2025-11-27 10:39:21 [INFO] Processed 320/326 shows (98.2%)
+2025-11-27 10:39:21 [INFO] Processed 326/326 shows (100.0%)
+2025-11-27 10:39:21 [INFO] Processed 326 shows with 7694 episodes in library 'TV Shows' with total size of 11357.72 GB
+2025-11-27 10:39:21 [INFO] New show: 8 Out of 10 Cats Does Countdown (2012) (11 episodes) - 18.44 GB
+2025-11-27 10:39:21 [INFO] New show: 9-1-1 (2018) (102 episodes) - 217.83 GB
+2025-11-27 10:39:21 [INFO] New show: 12 Monkeys (2015) (6 episodes) - 27.03 GB
+2025-11-27 10:39:21 [INFO] New show: 22 Kids & Counting (2021) (47 episodes) - 70.00 GB
+2025-11-27 10:39:21 [INFO] New show: 50M² (2021) (8 episodes) - 9.77 GB
+2025-11-27 10:39:21 [INFO] New show: 1899 (2022) (6 episodes) - 6.36 GB
+2025-11-27 10:39:21 [INFO] New show: Abandoned Engineering (2017) (97 episodes) - 88.24 GB
+2025-11-27 10:39:21 [INFO] New show: The Acolyte (2024) (6 episodes) - 10.07 GB
+2025-11-27 10:39:21 [INFO] New show: Adolescence (2025) (4 episodes) - 32.64 GB
+2025-11-27 10:39:21 [INFO] New show: Adventure Time: Fionna and Cake (2023) (5 episodes) - 4.02 GB
+2025-11-27 10:39:21 [INFO] New show: Age of Tanks (2017) (1 episodes) - 2.44 GB
+2025-11-27 10:39:21 [INFO] New show: The Agency (2024) (2024) (10 episodes) - 34.67 GB
+2025-11-27 10:39:21 [INFO] New show: Air Crash Investigation (2003) (71 episodes) - 97.55 GB
+2025-11-27 10:39:21 [INFO] New show: Alex Polizzi: The Fixer (2012) (8 episodes) - 15.66 GB
+2025-11-27 10:39:21 [INFO] New show: All Creatures Great and Small (1978) (72 episodes) - 30.24 GB
+2025-11-27 10:39:21 [INFO] New show: All Her Fault (2025) (5 episodes) - 15.20 GB
+2025-11-27 10:39:21 [INFO] New show: Andor (2022) (10 episodes) - 16.64 GB
+2025-11-27 10:39:21 [INFO] New show: Annika (2021) (2021) (9 episodes) - 21.94 GB
+2025-11-27 10:39:21 [INFO] New show: The Architecture the Railways Built (2020) (32 episodes) - 23.48 GB
+2025-11-27 10:39:21 [INFO] New show: Are You Being Served? (1972) (73 episodes) - 11.79 GB
+2025-11-27 10:39:21 [INFO] New show: Around the World by Train with Tony Robinson (2019) (8 episodes) - 13.76 GB
+2025-11-27 10:39:21 [INFO] New show: The Artful Dodger (2023) (4 episodes) - 4.64 GB
+2025-11-27 10:39:21 [INFO] New show: The Ascent of Man (1973) (13 episodes) - 6.52 GB
+2025-11-27 10:39:21 [INFO] New show: Babylon (2014) (2014) (6 episodes) - 20.35 GB
+2025-11-27 10:39:21 [INFO] New show: Band of Brothers (2001) (10 episodes) - 83.56 GB
+2025-11-27 10:39:21 [INFO] New show: Barry (2018) (8 episodes) - 3.89 GB
+2025-11-27 10:39:21 [INFO] New show: Battlestar Galactica (2003) (2004) (65 episodes) - 368.59 GB
+2025-11-27 10:39:21 [INFO] New show: The Bay (2019) (2019) (25 episodes) - 60.14 GB
+2025-11-27 10:39:21 [INFO] New show: Bay of Fires (2023) (16 episodes) - 15.62 GB
+2025-11-27 10:39:21 [INFO] New show: BBC Proms (2015) (4 episodes) - 13.80 GB
+2025-11-27 10:39:21 [INFO] New show: Before We Die (UK) (2021) (11 episodes) - 20.74 GB
+2025-11-27 10:39:21 [INFO] New show: The Biggest Little Railway in the World (2018) (5 episodes) - 5.92 GB
+2025-11-27 10:39:21 [INFO] New show: The Bill (1984) (1728 episodes) - 520.17 GB
+2025-11-27 10:39:21 [INFO] New show: Bill Bailey's Australian Adventure (2023) (3 episodes) - 3.75 GB
+2025-11-27 10:39:21 [INFO] New show: Black Bird (2022) (6 episodes) - 26.46 GB
+2025-11-27 10:39:21 [INFO] New show: Black Hands (2020) (5 episodes) - 5.08 GB
+2025-11-27 10:39:21 [INFO] New show: Blackshore (2024) (6 episodes) - 13.22 GB
+2025-11-27 10:39:21 [INFO] New show: Blake's 7 (1978) (52 episodes) - 65.00 GB
+2025-11-27 10:39:21 [INFO] New show: Blindspot (2023) (2023) (3 episodes) - 3.14 GB
+2025-11-27 10:39:21 [INFO] New show: Bloodlands (2021) (2021) (6 episodes) - 28.13 GB
+2025-11-27 10:39:21 [INFO] New show: Blue Lights (2023) (6 episodes) - 8.42 GB
+2025-11-27 10:39:21 [INFO] New show: The Blue Planet (2001) (8 episodes) - 34.90 GB
+2025-11-27 10:39:21 [INFO] New show: Blue Planet II (2017) (7 episodes) - 30.60 GB
+2025-11-27 10:39:21 [INFO] New show: Boat Story (2023) (6 episodes) - 7.39 GB
+2025-11-27 10:39:21 [INFO] New show: Bodkin (2024) (7 episodes) - 14.80 GB
+2025-11-27 10:39:21 [INFO] New show: Bookish (2025) (6 episodes) - 17.39 GB
+2025-11-27 10:39:21 [INFO] New show: Boys and Girls Alone (2009) (4 episodes) - 1.64 GB
+2025-11-27 10:39:21 [INFO] New show: Brave New World (2020) (2020) (9 episodes) - 22.62 GB
+2025-11-27 10:39:21 [INFO] New show: Breaking Bad (2008) (43 episodes) - 67.81 GB
+2025-11-27 10:39:21 [INFO] New show: Britain's Greatest Machines With Chris Barrie (2009) (8 episodes) - 5.47 GB
+2025-11-27 10:39:21 [INFO] New show: Britain's Most Luxurious Train Journeys (2023) (2 episodes) - 2.69 GB
+2025-11-27 10:39:21 [INFO] New show: Bug Juice (1998) (17 episodes) - 2.80 GB
+2025-11-27 10:39:21 [INFO] New show: Bushfire Wars (2018) (12 episodes) - 10.57 GB
+2025-11-27 10:39:21 [INFO] New show: Bushfires: Inside the Inferno (2014) (2 episodes) - 2.00 GB
+2025-11-27 10:39:21 [INFO] New show: Call the Midwife (2012) (32 episodes) - 40.71 GB
+2025-11-27 10:39:21 [INFO] New show: Cassandra (2025) (5 episodes) - 34.88 GB
+2025-11-27 10:39:21 [INFO] New show: Catweazle (1970) (26 episodes) - 6.34 GB
+2025-11-27 10:39:21 [INFO] New show: Changing Ends (2023) (15 episodes) - 16.74 GB
+2025-11-27 10:39:21 [INFO] New show: Chapelwaite (2021) (8 episodes) - 17.39 GB
+2025-11-27 10:39:21 [INFO] New show: The Checkout (2013) (17 episodes) - 5.31 GB
+2025-11-27 10:39:21 [INFO] New show: The Chelsea Detective (2022) (8 episodes) - 47.99 GB
+2025-11-27 10:39:21 [INFO] New show: Chernobyl (2019) (5 episodes) - 32.21 GB
+2025-11-27 10:39:21 [INFO] New show: Chicago Fire (2012) (2 episodes) - 5.43 GB
+2025-11-27 10:39:21 [INFO] New show: Child of Our Time (2000) (32 episodes) - 20.89 GB
+2025-11-27 10:39:21 [INFO] New show: Chris Tarrant: Extreme Railway Journeys (2012) (14 episodes) - 11.22 GB
+2025-11-27 10:39:21 [INFO] New show: Clarkson's Farm (2021) (29 episodes) - 155.21 GB
+2025-11-27 10:39:21 [INFO] New show: Classic British Aircraft (2004) (10 episodes) - 1.66 GB
+2025-11-27 10:39:21 [INFO] New show: Clean Sweep (2023) (2023) (6 episodes) - 9.74 GB
+2025-11-27 10:39:21 [INFO] New show: The Clearing (2023) (2023) (8 episodes) - 12.06 GB
+2025-11-27 10:39:21 [INFO] New show: Combat Trains (2015) (8 episodes) - 10.89 GB
+2025-11-27 10:39:21 [INFO] New show: Cowboy Bebop (2021) (2021) (10 episodes) - 15.11 GB
+2025-11-27 10:39:21 [INFO] New show: Cracking The Code (2022) (8 episodes) - 22.32 GB
+2025-11-27 10:39:21 [INFO] New show: Criminal Minds (2005) (96 episodes) - 149.40 GB
+2025-11-27 10:39:21 [INFO] New show: Criminal: United Kingdom (2019) (7 episodes) - 14.49 GB
+2025-11-27 10:39:21 [INFO] New show: Critical Incident (2024) (2024) (6 episodes) - 12.67 GB
+2025-11-27 10:39:21 [INFO] New show: The Crown (2016) (60 episodes) - 144.18 GB
+2025-11-27 10:39:21 [INFO] New show: The Crystal Maze (1990) (44 episodes) - 19.39 GB
+2025-11-27 10:39:21 [INFO] New show: The Crystal Maze (2017) (2017) (41 episodes) - 69.35 GB
+2025-11-27 10:39:21 [INFO] New show: Dad's Army (1968) (79 episodes) - 18.34 GB
+2025-11-27 10:39:21 [INFO] New show: Damned (2016) (2016) (12 episodes) - 18.99 GB
+2025-11-27 10:39:21 [INFO] New show: Danger UXB (1979) (13 episodes) - 4.44 GB
+2025-11-27 10:39:21 [INFO] New show: Dark Matter (2024) (2024) (4 episodes) - 35.63 GB
+2025-11-27 10:39:21 [INFO] New show: The Days (2023) (8 episodes) - 14.73 GB
+2025-11-27 10:39:21 [INFO] New show: Dead and Buried (2024) (2024) (4 episodes) - 4.70 GB
+2025-11-27 10:39:21 [INFO] New show: Deadloch (2023) (8 episodes) - 26.71 GB
+2025-11-27 10:39:21 [INFO] New show: Deadwater Fell (2020) (4 episodes) - 7.58 GB
+2025-11-27 10:39:21 [INFO] New show: Defending Jacob (2020) (8 episodes) - 28.77 GB
+2025-11-27 10:39:21 [INFO] New show: The Devil's Hour (2022) (11 episodes) - 58.52 GB
+2025-11-27 10:39:21 [INFO] New show: Dickensian (2015) (13 episodes) - 5.52 GB
+2025-11-27 10:39:21 [INFO] New show: Dig with Dibnah (2004) (5 episodes) - 2.00 GB
+2025-11-27 10:39:21 [INFO] New show: Doctor Who (1963) (557 episodes) - 178.98 GB
+2025-11-27 10:39:21 [INFO] New show: Down Cemetery Road (2025) (6 episodes) - 22.40 GB
+2025-11-27 10:39:21 [INFO] New show: Endeavour (2012) (31 episodes) - 62.84 GB
+2025-11-27 10:39:21 [INFO] New show: The Eternaut (2025) (6 episodes) - 19.14 GB
+2025-11-27 10:39:21 [INFO] New show: Evil (2019) (50 episodes) - 206.80 GB
+2025-11-27 10:39:21 [INFO] New show: The Expanse (2015) (59 episodes) - 183.62 GB
+2025-11-27 10:39:21 [INFO] New show: Exploding Kittens (2024) (9 episodes) - 8.74 GB
+2025-11-27 10:39:21 [INFO] New show: Fallout (2024) (8 episodes) - 10.60 GB
+2025-11-27 10:39:21 [INFO] New show: Fire Country (2022) (1 episodes) - 2.49 GB
+2025-11-27 10:39:21 [INFO] New show: Fires (2021) (6 episodes) - 6.14 GB
+2025-11-27 10:39:21 [INFO] New show: Five Came Back (2017) (3 episodes) - 19.99 GB
+2025-11-27 10:39:21 [INFO] New show: For All Mankind (2019) (40 episodes) - 183.05 GB
+2025-11-27 10:39:21 [INFO] New show: The Fred Dibnah Story (1996) (4 episodes) - 0.99 GB
+2025-11-27 10:39:21 [INFO] New show: Fred Dibnah's Railway Collection (2008) (6 episodes) - 2.46 GB
+2025-11-27 10:39:21 [INFO] New show: Frozen Planet (2011) (7 episodes) - 39.51 GB
+2025-11-27 10:39:21 [INFO] New show: Get Krack!n (2017) (8 episodes) - 5.43 GB
+2025-11-27 10:39:21 [INFO] New show: Ghosts (2019) (2019) (12 episodes) - 18.09 GB
+2025-11-27 10:39:21 [INFO] New show: The Golden Age Of Steam Railways (2012) (2 episodes) - 1.38 GB
+2025-11-27 10:39:21 [INFO] New show: The Goodies (1970) (84 episodes) - 31.97 GB
+2025-11-27 10:39:21 [INFO] New show: Grace (2021) (2021) (16 episodes) - 55.99 GB
+2025-11-27 10:39:21 [INFO] New show: The Graham Norton Show (2007) (7 episodes) - 13.84 GB
+2025-11-27 10:39:21 [INFO] New show: The Grand Tour (2016) (2016) (46 episodes) - 338.72 GB
+2025-11-27 10:39:21 [INFO] New show: The Great (2020) (29 episodes) - 57.30 GB
+2025-11-27 10:39:21 [INFO] New show: Great Asian Railway Journeys (2020) (20 episodes) - 27.18 GB
+2025-11-27 10:39:21 [INFO] New show: The Great British Bake Off (2010) (12 episodes) - 24.27 GB
+2025-11-27 10:39:21 [INFO] New show: Great British Railway Journeys (2010) (167 episodes) - 132.25 GB
+2025-11-27 10:39:21 [INFO] New show: The Great Model Railway Challenge (2018) (14 episodes) - 13.36 GB
+2025-11-27 10:39:21 [INFO] New show: Greatest Cities of the World with Griff Rhys Jones (2008) (6 episodes) - 2.24 GB
+2025-11-27 10:39:21 [INFO] New show: Greatest Escapes to the Country (2020) (15 episodes) - 5.80 GB
+2025-11-27 10:39:21 [INFO] New show: Greatest Events of WWII in Colour (2019) (5 episodes) - 13.53 GB
+2025-11-27 10:39:21 [INFO] New show: Grotesquerie (2024) (10 episodes) - 13.97 GB
+2025-11-27 10:39:21 [INFO] New show: The Handmaid's Tale (2017) (66 episodes) - 231.67 GB
+2025-11-27 10:39:21 [INFO] New show: Happy Valley (2014) (17 episodes) - 53.67 GB
+2025-11-27 10:39:21 [INFO] New show: The Head (2020) (2020) (18 episodes) - 47.05 GB
+2025-11-27 10:39:21 [INFO] New show: Hidden Assets (2021) (9 episodes) - 19.20 GB
+2025-11-27 10:39:21 [INFO] New show: The Highland Midwife (2017) (7 episodes) - 5.67 GB
+2025-11-27 10:39:21 [INFO] New show: Himalaya with Michael Palin (2004) (6 episodes) - 5.92 GB
+2025-11-27 10:39:21 [INFO] New show: The Hoarder Next Door (2012) (11 episodes) - 11.66 GB
+2025-11-27 10:39:21 [INFO] New show: Hogan's Heroes (1965) (168 episodes) - 102.71 GB
+2025-11-27 10:39:21 [INFO] New show: Hornby: A Model World (2021) (15 episodes) - 11.59 GB
+2025-11-27 10:39:21 [INFO] New show: The Hot Zone (2019) (6 episodes) - 16.10 GB
+2025-11-27 10:39:21 [INFO] New show: House (2004) (22 episodes) - 93.22 GB
+2025-11-27 10:39:21 [INFO] New show: House of the Dragon (2022) (8 episodes) - 19.42 GB
+2025-11-27 10:39:21 [INFO] New show: How Britain Worked (2012) (2 episodes) - 1.57 GB
+2025-11-27 10:39:21 [INFO] New show: Ian Hislop's Trains That Changed The World (2021) (4 episodes) - 6.94 GB
+2025-11-27 10:39:21 [INFO] New show: Impossible Railways (2018) (12 episodes) - 10.24 GB
+2025-11-27 10:39:21 [INFO] New show: Inside Britain's Food Factories (2020) (6 episodes) - 8.10 GB
+2025-11-27 10:39:21 [INFO] New show: Inside Central Station (2019) (17 episodes) - 38.78 GB
+2025-11-27 10:39:21 [INFO] New show: Inside Museums (2013) (4 episodes) - 1.56 GB
+2025-11-27 10:39:21 [INFO] New show: Inside the Heist (2022) (5 episodes) - 14.87 GB
+2025-11-27 10:39:21 [INFO] New show: Inside the Spitfire Factory (2020) (6 episodes) - 3.24 GB
+2025-11-27 10:39:21 [INFO] New show: Inside The Tower of London (2018) (36 episodes) - 45.76 GB
+2025-11-27 10:39:21 [INFO] New show: Into the Night (2020) (12 episodes) - 12.96 GB
+2025-11-27 10:39:21 [INFO] New show: Invasion (2021) (2021) (3 episodes) - 10.19 GB
+2025-11-27 10:39:21 [INFO] New show: Invisible (2024) (6 episodes) - 11.23 GB
+2025-11-27 10:39:21 [INFO] New show: Ironheart (2025) (6 episodes) - 12.50 GB
+2025-11-27 10:39:21 [INFO] New show: The IT Crowd (2006) (24 episodes) - 11.65 GB
+2025-11-27 10:39:21 [INFO] New show: IT: Welcome to Derry (2025) (5 episodes) - 30.02 GB
+2025-11-27 10:39:21 [INFO] New show: James May: Oh Cook! (2020) (9 episodes) - 15.62 GB
+2025-11-27 10:39:21 [INFO] New show: James May's 20th Century (2007) (2 episodes) - 0.90 GB
+2025-11-27 10:39:21 [INFO] New show: James May's Shed Load of Ideas (2025) (3 episodes) - 7.14 GB
+2025-11-27 10:39:21 [INFO] New show: James May's Things You Need to Know (2011) (9 episodes) - 2.08 GB
+2025-11-27 10:39:21 [INFO] New show: Jeremy Clarkson: War Stories (2003) (2 episodes) - 1.07 GB
+2025-11-27 10:39:21 [INFO] New show: Joko Anwar's Nightmares and Daydreams (2024) (7 episodes) - 18.53 GB
+2025-11-27 10:39:21 [INFO] New show: Journey to the Center of the Earth (2023) (7 episodes) - 6.23 GB
+2025-11-27 10:39:21 [INFO] New show: Junior Bake Off (2011) (14 episodes) - 22.67 GB
+2025-11-27 10:39:21 [INFO] New show: Just Beyond (2021) (8 episodes) - 11.45 GB
+2025-11-27 10:39:21 [INFO] New show: Keep Breathing (2022) (5 episodes) - 6.36 GB
+2025-11-27 10:39:21 [INFO] New show: Kid Nation (2007) (13 episodes) - 4.62 GB
+2025-11-27 10:39:21 [INFO] New show: Kidding (2018) (13 episodes) - 19.93 GB
+2025-11-27 10:39:21 [INFO] New show: The Kingdom (1994) (13 episodes) - 50.27 GB
+2025-11-27 10:39:21 [INFO] New show: Last Chance to See (2009) (6 episodes) - 27.24 GB
+2025-11-27 10:39:21 [INFO] New show: Law & Order: Special Victims Unit (1999) (91 episodes) - 215.60 GB
+2025-11-27 10:39:21 [INFO] New show: The Lazarus Project (2022) (8 episodes) - 12.33 GB
+2025-11-27 10:39:21 [INFO] New show: The Lincoln Lawyer (2022) (10 episodes) - 20.33 GB
+2025-11-27 10:39:21 [INFO] New show: Little Britain USA (2008) (4 episodes) - 0.85 GB
+2025-11-27 10:39:21 [INFO] New show: Lockerbie: A Search for Truth (2025) (5 episodes) - 5.43 GB
+2025-11-27 10:39:21 [INFO] New show: Lost Boys and Fairies (2024) (3 episodes) - 4.79 GB
+2025-11-27 10:39:21 [INFO] New show: Lost in Space (2018) (2018) (28 episodes) - 103.48 GB
+2025-11-27 10:39:21 [INFO] New show: Louis Theroux Interviews... (2022) (5 episodes) - 7.40 GB
+2025-11-27 10:39:21 [INFO] New show: Ludwig (2024) (2024) (4 episodes) - 4.29 GB
+2025-11-27 10:39:21 [INFO] New show: Luther (2010) (20 episodes) - 83.39 GB
+2025-11-27 10:39:21 [INFO] New show: The Madness (2024) (8 episodes) - 15.07 GB
+2025-11-27 10:39:21 [INFO] New show: Maigret (2016) (2016) (4 episodes) - 19.73 GB
+2025-11-27 10:39:21 [INFO] New show: Major Crimes (2012) (67 episodes) - 64.72 GB
+2025-11-27 10:39:21 [INFO] New show: Manhunt (2017) (2017) (10 episodes) - 15.03 GB
+2025-11-27 10:39:21 [INFO] New show: Marianne (2019) (8 episodes) - 11.24 GB
+2025-11-27 10:39:21 [INFO] New show: McDonald & Dodds (2020) (11 episodes) - 48.91 GB
+2025-11-27 10:39:21 [INFO] New show: Medal of Honor (2018) (8 episodes) - 21.31 GB
+2025-11-27 10:39:21 [INFO] New show: Meet the Richardsons (2020) (28 episodes) - 17.36 GB
+2025-11-27 10:39:21 [INFO] New show: Mega Shippers (2016) (16 episodes) - 13.20 GB
+2025-11-27 10:39:21 [INFO] New show: The Metro: A Rail Life Story (2020) (3 episodes) - 4.76 GB
+2025-11-27 10:39:21 [INFO] New show: Michael Palin's New Europe (2007) (7 episodes) - 29.36 GB
+2025-11-27 10:39:21 [INFO] New show: Midsomer Murders (1997) (5 episodes) - 10.39 GB
+2025-11-27 10:39:21 [INFO] New show: Mighty Planes (2012) (3 episodes) - 3.09 GB
+2025-11-27 10:39:21 [INFO] New show: MINDHUNTER (2017) (9 episodes) - 6.87 GB
+2025-11-27 10:39:21 [INFO] New show: Miriam and Alan: Lost in Scotland (2021) (7 episodes) - 7.18 GB
+2025-11-27 10:39:21 [INFO] New show: Miriam Margolyes: Almost Australian (2020) (3 episodes) - 4.37 GB
+2025-11-27 10:39:21 [INFO] New show: Miriam's Big Fat Adventure (2020) (2 episodes) - 2.52 GB
+2025-11-27 10:39:21 [INFO] New show: Miriam's Dead Good Adventure (2019) (2 episodes) - 4.41 GB
+2025-11-27 10:39:21 [INFO] New show: Miriam’s Big American Adventure (2018) (3 episodes) - 3.31 GB
+2025-11-27 10:39:21 [INFO] New show: Monarch: Legacy of Monsters (2023) (10 episodes) - 35.41 GB
+2025-11-27 10:39:21 [INFO] New show: Monster Moves (2005) (14 episodes) - 4.78 GB
+2025-11-27 10:39:21 [INFO] New show: The Monster of Florence (2025) (4 episodes) - 9.78 GB
+2025-11-27 10:39:21 [INFO] New show: Motorway Cops: Catching Britain's Speeders (2021) (76 episodes) - 139.53 GB
+2025-11-27 10:39:21 [INFO] New show: Mr Drew's School for Boys (2014) (4 episodes) - 3.77 GB
+2025-11-27 10:39:21 [INFO] New show: Mr. Robot (2015) (10 episodes) - 51.94 GB
+2025-11-27 10:39:21 [INFO] New show: Murder in a Small Town (2024) (2024) (17 episodes) - 31.94 GB
+2025-11-27 10:39:21 [INFO] New show: Murder Most Puzzling (2025) (3 episodes) - 12.02 GB
+2025-11-27 10:39:21 [INFO] New show: Nazi Megastructures (2013) (39 episodes) - 88.20 GB
+2025-11-27 10:39:21 [INFO] New show: New Tricks (2003) (18 episodes) - 18.15 GB
+2025-11-27 10:39:21 [INFO] New show: The Night Agent (2023) (8 episodes) - 16.18 GB
+2025-11-27 10:39:21 [INFO] New show: The Night Of (2016) (8 episodes) - 29.42 GB
+2025-11-27 10:39:21 [INFO] New show: No Offence (2015) (13 episodes) - 41.38 GB
+2025-11-27 10:39:21 [INFO] New show: North Shore (2023) (2023) (6 episodes) - 7.41 GB
+2025-11-27 10:39:21 [INFO] New show: The North Water (2021) (5 episodes) - 9.25 GB
+2025-11-27 10:39:21 [INFO] New show: Not the Nine O'Clock News (1979) (15 episodes) - 7.43 GB
+2025-11-27 10:39:21 [INFO] New show: Omniscient (2020) (5 episodes) - 6.65 GB
+2025-11-27 10:39:21 [INFO] New show: Only Murders in the Building (2021) (50 episodes) - 69.27 GB
+2025-11-27 10:39:21 [INFO] New show: Our Farm Next Door: Amanda, Clive and Kids (2024) (3 episodes) - 5.01 GB
+2025-11-27 10:39:21 [INFO] New show: Outback Truckers (2012) (73 episodes) - 127.40 GB
+2025-11-27 10:39:21 [INFO] New show: Outnumbered (2007) (31 episodes) - 34.85 GB
+2025-11-27 10:39:21 [INFO] New show: The Pacific (2010) (9 episodes) - 51.16 GB
+2025-11-27 10:39:21 [INFO] New show: Paddington Station 24/7 (2017) (12 episodes) - 15.64 GB
+2025-11-27 10:39:21 [INFO] New show: The Patient (2022) (10 episodes) - 8.29 GB
+2025-11-27 10:39:21 [INFO] New show: Pennyworth: The Origin of Batman's Butler (2019) (30 episodes) - 92.98 GB
+2025-11-27 10:39:21 [INFO] New show: A Perfect Planet (2021) (5 episodes) - 33.20 GB
+2025-11-27 10:39:21 [INFO] New show: Perfect Pub Walks (2024) (8 episodes) - 13.41 GB
+2025-11-27 10:39:21 [INFO] New show: Pine Gap (2018) (6 episodes) - 25.37 GB
+2025-11-27 10:39:21 [INFO] New show: Planet Child (2019) (3 episodes) - 3.09 GB
+2025-11-27 10:39:21 [INFO] New show: Planet Earth (2006) (2 episodes) - 8.75 GB
+2025-11-27 10:39:21 [INFO] New show: Planet Earth II (2016) (6 episodes) - 26.04 GB
+2025-11-27 10:39:21 [INFO] New show: Planet Earth III (2023) (8 episodes) - 22.61 GB
+2025-11-27 10:39:21 [INFO] New show: Platform 7 (2023) (4 episodes) - 4.88 GB
+2025-11-27 10:39:21 [INFO] New show: PLUR1BUS (2025) (5 episodes) - 19.03 GB
+2025-11-27 10:39:21 [INFO] New show: Pole to Pole with Michael Palin (1992) (8 episodes) - 8.40 GB
+2025-11-27 10:39:21 [INFO] New show: Professor T (UK) (2021) (17 episodes) - 29.28 GB
+2025-11-27 10:39:21 [INFO] New show: QI (2003) (14 episodes) - 21.01 GB
+2025-11-27 10:39:21 [INFO] New show: The Queen's Lost Family (2019) (3 episodes) - 3.94 GB
+2025-11-27 10:39:21 [INFO] New show: Rabbit Hole (2023) (8 episodes) - 13.47 GB
+2025-11-27 10:39:21 [INFO] New show: Railroad Australia (2016) (19 episodes) - 19.83 GB
+2025-11-27 10:39:21 [INFO] New show: The Railway 24/7 (2020) (6 episodes) - 6.78 GB
+2025-11-27 10:39:21 [INFO] New show: The Railway Killers (2021) (3 episodes) - 2.69 GB
+2025-11-27 10:39:21 [INFO] New show: Rake (2010) (24 episodes) - 73.03 GB
+2025-11-27 10:39:21 [INFO] New show: Reacher (2022) (16 episodes) - 75.28 GB
+2025-11-27 10:39:21 [INFO] New show: Ready for Takeoff (2015) (5 episodes) - 1.40 GB
+2025-11-27 10:39:21 [INFO] New show: Rebus (2024) (2024) (6 episodes) - 15.26 GB
+2025-11-27 10:39:21 [INFO] New show: Red Eye (2024) (6 episodes) - 18.62 GB
+2025-11-27 10:39:21 [INFO] New show: The Red King (2024) (6 episodes) - 9.93 GB
+2025-11-27 10:39:21 [INFO] New show: The Regime (2024) (6 episodes) - 19.92 GB
+2025-11-27 10:39:21 [INFO] New show: Resident Alien (2021) (7 episodes) - 18.66 GB
+2025-11-27 10:39:21 [INFO] New show: The Responder (2022) (10 episodes) - 40.64 GB
+2025-11-27 10:39:21 [INFO] New show: Retro Electro Workshop (2023) (9 episodes) - 8.18 GB
+2025-11-27 10:39:21 [INFO] New show: Richard Hammond's Workshop (2021) (2 episodes) - 5.62 GB
+2025-11-27 10:39:21 [INFO] New show: Ridley (2022) (12 episodes) - 30.14 GB
+2025-11-27 10:39:21 [INFO] New show: Rise of the Nazis (2019) (3 episodes) - 10.47 GB
+2025-11-27 10:39:21 [INFO] New show: The Rook (2019) (8 episodes) - 21.98 GB
+2025-11-27 10:39:21 [INFO] New show: The Rookie (2018) (79 episodes) - 220.84 GB
+2025-11-27 10:39:21 [INFO] New show: Sahara with Michael Palin (2002) (4 episodes) - 14.05 GB
+2025-11-27 10:39:21 [INFO] New show: The Salisbury Poisonings (2020) (3 episodes) - 10.25 GB
+2025-11-27 10:39:21 [INFO] New show: Scotland's Scenic Railways (2019) (1 episodes) - 1.98 GB
+2025-11-27 10:39:21 [INFO] New show: Screw (2022) (12 episodes) - 35.58 GB
+2025-11-27 10:39:21 [INFO] New show: Secret Scotland (2019) (20 episodes) - 25.78 GB
+2025-11-27 10:39:21 [INFO] New show: Secret Valley (1982) (18 episodes) - 3.23 GB
+2025-11-27 10:39:21 [INFO] New show: Secrets of the London Underground (2021) (3 episodes) - 2.65 GB
+2025-11-27 10:39:21 [INFO] New show: Secrets of the Railways (2019) (6 episodes) - 10.98 GB
+2025-11-27 10:39:21 [INFO] New show: Secrets of the Transport Museum (2021) (7 episodes) - 7.82 GB
+2025-11-27 10:39:21 [INFO] New show: See (2019) (11 episodes) - 45.46 GB
+2025-11-27 10:39:21 [INFO] New show: Senna (2024) (6 episodes) - 15.35 GB
+2025-11-27 10:39:21 [INFO] New show: Servant (2019) (29 episodes) - 47.38 GB
+2025-11-27 10:39:21 [INFO] New show: Sherwood (2022) (2022) (12 episodes) - 25.90 GB
+2025-11-27 10:39:21 [INFO] New show: Shetland (2013) (22 episodes) - 32.61 GB
+2025-11-27 10:39:21 [INFO] New show: Showtrial (2021) (10 episodes) - 28.19 GB
+2025-11-27 10:39:21 [INFO] New show: Significant Others (2022) (2022) (6 episodes) - 4.62 GB
+2025-11-27 10:39:21 [INFO] New show: Silent Witness (1996) (40 episodes) - 64.87 GB
+2025-11-27 10:39:21 [INFO] New show: Six Four (2023) (4 episodes) - 4.62 GB
+2025-11-27 10:39:21 [INFO] New show: Smoke (2025) (2025) (8 episodes) - 70.13 GB
+2025-11-27 10:39:21 [INFO] New show: Son of a Critch (2022) (34 episodes) - 30.45 GB
+2025-11-27 10:39:21 [INFO] New show: The Staircase (2022) (2022) (8 episodes) - 31.71 GB
+2025-11-27 10:39:21 [INFO] New show: Star Trek (1966) (80 episodes) - 24.90 GB
+2025-11-27 10:39:21 [INFO] New show: Stranger Things (2016) (4 episodes) - 24.35 GB
+2025-11-27 10:39:21 [INFO] New show: Susan Calman’s Grand Day Out (2021) (41 episodes) - 58.59 GB
+2025-11-27 10:39:21 [INFO] New show: Suspicion (2022) (2022) (8 episodes) - 28.39 GB
+2025-11-27 10:39:21 [INFO] New show: Talamasca: The Secret Order (2025) (5 episodes) - 17.30 GB
+2025-11-27 10:39:21 [INFO] New show: Tales from the Loop (2020) (8 episodes) - 20.89 GB
+2025-11-27 10:39:21 [INFO] New show: Task (2025) (7 episodes) - 19.77 GB
+2025-11-27 10:39:21 [INFO] New show: The Thames: Britain's Great River With Tony Robinson (2019) (7 episodes) - 10.31 GB
+2025-11-27 10:39:21 [INFO] New show: The Third Day (2020) (6 episodes) - 21.90 GB
+2025-11-27 10:39:21 [INFO] New show: Time (2021) (6 episodes) - 14.54 GB
+2025-11-27 10:39:21 [INFO] New show: Tom Clancy's Jack Ryan (2018) (6 episodes) - 14.77 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson Explores Australia (2011) (6 episodes) - 2.05 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson: Coast to Coast (2017) (6 episodes) - 11.38 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson's Gods and Monsters (2011) (5 episodes) - 4.65 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson's History of Britain (2020) (4 episodes) - 5.76 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson's Museum of Us (2022) (3 episodes) - 3.00 GB
+2025-11-27 10:39:21 [INFO] New show: Tony Robinson's World War I (2014) (4 episodes) - 2.04 GB
+2025-11-27 10:39:21 [INFO] New show: Too Good to be True (2024) (4 episodes) - 6.90 GB
+2025-11-27 10:39:21 [INFO] New show: A Touch of Cloth (2012) (3 episodes) - 13.14 GB
+2025-11-27 10:39:21 [INFO] New show: Traces (2019) (12 episodes) - 33.69 GB
+2025-11-27 10:39:21 [INFO] New show: The Train Now Departing (1988) (6 episodes) - 1.91 GB
+2025-11-27 10:39:21 [INFO] New show: Train Truckers (2019) (7 episodes) - 3.92 GB
+2025-11-27 10:39:21 [INFO] New show: Transplant (2020) (49 episodes) - 90.50 GB
+2025-11-27 10:39:21 [INFO] New show: Trigger Point (2022) (2022) (6 episodes) - 6.47 GB
+2025-11-27 10:39:21 [INFO] New show: Trucking Heavy (2022) (44 episodes) - 61.49 GB
+2025-11-27 10:39:21 [INFO] New show: True Detective (2014) (13 episodes) - 103.57 GB
+2025-11-27 10:39:21 [INFO] New show: The Tube (2012) (6 episodes) - 4.11 GB
+2025-11-27 10:39:21 [INFO] New show: The Twelve (AU) (2022) (26 episodes) - 57.76 GB
+2025-11-27 10:39:21 [INFO] New show: The Twilight Zone (2019) (2019) (10 episodes) - 13.07 GB
+2025-11-27 10:39:21 [INFO] New show: The Umbrella Academy (2019) (36 episodes) - 109.93 GB
+2025-11-27 10:39:21 [INFO] New show: Uncle (2012) (19 episodes) - 36.93 GB
+2025-11-27 10:39:21 [INFO] New show: UNTAMED (2025) (6 episodes) - 39.42 GB
+2025-11-27 10:39:21 [INFO] New show: Until I Kill You (2024) (3 episodes) - 3.00 GB
+2025-11-27 10:39:21 [INFO] New show: The Up Series (1964) (14 episodes) - 69.55 GB
+2025-11-27 10:39:21 [INFO] New show: The Valhalla Murders (2019) (8 episodes) - 13.23 GB
+2025-11-27 10:39:21 [INFO] New show: Vera (2011) (39 episodes) - 122.01 GB
+2025-11-27 10:39:21 [INFO] New show: Vienna Blood (2019) (2 episodes) - 4.68 GB
+2025-11-27 10:39:21 [INFO] New show: Vikings (2013) (89 episodes) - 346.53 GB
+2025-11-27 10:39:21 [INFO] New show: Walking Britain's Lost Railways (2018) (19 episodes) - 29.94 GB
+2025-11-27 10:39:21 [INFO] New show: Warplane Workshop (2022) (9 episodes) - 15.06 GB
+2025-11-27 10:39:21 [INFO] New show: Warship: Life in the Royal Navy (2024) (1 episodes) - 1.93 GB
+2025-11-27 10:39:21 [INFO] New show: Welsh Railways (2011) (4 episodes) - 0.92 GB
+2025-11-27 10:39:21 [INFO] New show: Wentworth (2013) (10 episodes) - 30.98 GB
+2025-11-27 10:39:21 [INFO] New show: White House Farm (2020) (6 episodes) - 16.77 GB
+2025-11-27 10:39:21 [INFO] New show: Whites (2010) (6 episodes) - 7.00 GB
+2025-11-27 10:39:21 [INFO] New show: Whitstable Pearl (2021) (18 episodes) - 46.44 GB
+2025-11-27 10:39:21 [INFO] New show: The Witcher: Blood Origin (2022) (4 episodes) - 9.67 GB
+2025-11-27 10:39:21 [INFO] New show: Wolf (2023) (2023) (6 episodes) - 8.44 GB
+2025-11-27 10:39:21 [INFO] New show: World War II in Numbers (2019) (4 episodes) - 4.95 GB
+2025-11-27 10:39:21 [INFO] New show: WPC 56 (2013) (15 episodes) - 33.30 GB
+2025-11-27 10:39:21 [INFO] New show: WW2 Frontlines (2021) (8 episodes) - 8.21 GB
+2025-11-27 10:39:21 [INFO] New show: X Company (2015) (26 episodes) - 26.21 GB
+2025-11-27 10:39:21 [INFO] New show: The X-Files (1993) (219 episodes) - 500.62 GB
+2025-11-27 10:39:21 [INFO] New show: Yes Minister (1980) (21 episodes) - 5.55 GB
+2025-11-27 10:39:21 [INFO] New show: Yes, Prime Minister (1986) (17 episodes) - 29.02 GB
+2025-11-27 10:39:21 [INFO] New show: The Young Ones (1982) (12 episodes) - 7.98 GB
+2025-11-27 10:39:21 [INFO] New show: Your Honor (2020) (10 episodes) - 22.64 GB
+2025-11-27 10:39:21 [INFO] Removed show: The Agency (2024) (10 episodes, 34.67 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Annika (2021) (9 episodes, 21.94 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Babylon (2014) (6 episodes, 20.35 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Battlestar Galactica (2003) (65 episodes, 368.59 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Bay (2019) (25 episodes, 60.14 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Blindspot (2023) (3 episodes, 3.14 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Bloodlands (2021) (6 episodes, 28.13 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Brave New World (2020) (9 episodes, 22.62 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Clean Sweep (2023) (6 episodes, 9.74 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Clearing (2023) (8 episodes, 12.06 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Cowboy Bebop (2021) (10 episodes, 15.11 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Critical Incident (2024) (6 episodes, 12.67 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Crystal Maze (2017) (41 episodes, 69.35 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Damned (2016) (12 episodes, 18.99 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Dark Matter (2024) (4 episodes, 35.63 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Dead and Buried (2024) (4 episodes, 4.70 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Ghosts (2019) (12 episodes, 18.09 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Grace (2021) (16 episodes, 55.99 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Grand Tour (2016) (46 episodes, 338.72 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Head (2020) (18 episodes, 47.05 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Invasion (2021) (3 episodes, 10.19 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Lost in Space (2018) (28 episodes, 103.48 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Ludwig (2024) (4 episodes, 4.29 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Maigret (2016) (4 episodes, 19.73 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Manhunt (2017) (10 episodes, 15.03 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Murder in a Small Town (2024) (17 episodes, 31.94 GB)
+2025-11-27 10:39:21 [INFO] Removed show: North Shore (2023) (6 episodes, 7.41 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Rebus (2024) (6 episodes, 15.26 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Sherwood (2022) (12 episodes, 25.90 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Significant Others (2022) (6 episodes, 4.62 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Smoke (2025) (8 episodes, 70.13 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Staircase (2022) (8 episodes, 31.71 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Suspicion (2022) (8 episodes, 28.39 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Trigger Point (2022) (6 episodes, 6.47 GB)
+2025-11-27 10:39:21 [INFO] Removed show: The Twilight Zone (2019) (10 episodes, 13.07 GB)
+2025-11-27 10:39:21 [INFO] Removed show: Wolf (2023) (6 episodes, 8.44 GB)
+2025-11-27 10:39:21 [ERROR] Error writing overlay file /home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml: [Errno 13] Permission denied: '/home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml'
+2025-11-27 10:39:21 [INFO] Processing TV library: TV ShowsT
+2025-11-27 10:39:21 [INFO] Processing TV library 'TV ShowsT'...
+2025-11-27 10:39:21 [INFO] Found 7 shows to process
+2025-11-27 10:39:21 [INFO] Processed 7/7 shows (100.0%)
+2025-11-27 10:39:21 [INFO] Processed 7 shows with 86 episodes in library 'TV ShowsT' with total size of 10.47 GB
+2025-11-27 10:39:21 [INFO] New show: The 100 (2014) (18 episodes) - 0.08 GB
+2025-11-27 10:39:21 [INFO] New show: American Gods (2017) (8 episodes) - 0.03 GB
+2025-11-27 10:39:21 [INFO] New show: Documentary Now! (2015) (7 episodes) - 0.03 GB
+2025-11-27 10:39:21 [INFO] New show: Invasion (2021) (2021) (3 episodes) - 10.10 GB
+2025-11-27 10:39:21 [INFO] New show: New Amsterdam (2018) (2018) (22 episodes) - 0.10 GB
+2025-11-27 10:39:21 [INFO] New show: Ted Lasso (2020) (22 episodes) - 0.10 GB
+2025-11-27 10:39:21 [INFO] New show: Wellington Paranormal (2018) (6 episodes) - 0.03 GB
+2025-11-27 10:39:21 [INFO] Removed show: Invasion (2021) (3 episodes, 10.10 GB)
+2025-11-27 10:39:21 [INFO] Removed show: New Amsterdam (2018) (22 episodes, 0.10 GB)
+2025-11-27 10:39:21 [ERROR] Error writing overlay file /home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml: [Errno 13] Permission denied: '/home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml'
+2025-11-27 10:39:21 [INFO] Size Overlay service completed in 11.0 seconds
+2025-11-27 10:39:21 [INFO] Processed 685 movies and 333 shows with 7780 episodes
+2025-11-27 10:39:21 [INFO] Total media size: 18076.33 GB (0.00 GB change)
+2025-11-27 10:39:21 [INFO] Created 1 overlay files
+2025-11-27 10:39:21 [WARNING] Reached max fields (25) for 'Changes Detected'. Truncating changes.
+2025-11-27 10:39:22 [INFO] Sent notification about Size Overlay updates
+2025-11-27 10:39:22 [ERROR] Size Overlay service completed with errors.
+2025-11-27 10:39:53 [INFO] Size Overlay service started at 2025-11-27 10:39:53
+2025-11-27 10:39:53 [INFO] Connecting to Plex server...
+2025-11-27 10:39:53 [INFO] Connected to Plex server successfully!
+2025-11-27 10:39:53 [INFO] Found 6 libraries in Plex
+2025-11-27 10:39:53 [INFO] Processing movie library: Movies
+2025-11-27 10:39:53 [INFO] Processing movie library 'Movies'...
+2025-11-27 10:39:54 [INFO] Found 685 movies to process
+2025-11-27 10:39:54 [INFO] Processed 50/685 movies (7.3%)
+2025-11-27 10:39:54 [INFO] Processed 100/685 movies (14.6%)
+2025-11-27 10:39:54 [INFO] Processed 150/685 movies (21.9%)
+2025-11-27 10:39:54 [INFO] Processed 200/685 movies (29.2%)
+2025-11-27 10:39:54 [INFO] Processed 250/685 movies (36.5%)
+2025-11-27 10:39:54 [INFO] Processed 300/685 movies (43.8%)
+2025-11-27 10:39:54 [INFO] Processed 350/685 movies (51.1%)
+2025-11-27 10:39:54 [INFO] Processed 400/685 movies (58.4%)
+2025-11-27 10:39:54 [INFO] Processed 450/685 movies (65.7%)
+2025-11-27 10:39:54 [INFO] Processed 500/685 movies (73.0%)
+2025-11-27 10:39:54 [INFO] Processed 550/685 movies (80.3%)
+2025-11-27 10:39:54 [INFO] Processed 600/685 movies (87.6%)
+2025-11-27 10:39:54 [INFO] Processed 650/685 movies (94.9%)
+2025-11-27 10:39:54 [INFO] Processed 685/685 movies (100.0%)
+2025-11-27 10:39:54 [INFO] Processed 685 movies in library 'Movies' with total size of 6708.14 GB
+2025-11-27 10:39:54 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-movies.yml
+2025-11-27 10:39:54 [INFO] Processing movie library: Movies New
+2025-11-27 10:39:54 [INFO] Processing movie library 'Movies New'...
+2025-11-27 10:39:54 [INFO] Found 0 movies to process
+2025-11-27 10:39:54 [INFO] Processed 0 movies in library 'Movies New' with total size of 0.00 GB
+2025-11-27 10:39:54 [INFO] Processing TV library: TV New
+2025-11-27 10:39:54 [INFO] Processing TV library 'TV New'...
+2025-11-27 10:39:54 [INFO] Found 0 shows to process
+2025-11-27 10:39:54 [INFO] Processed 0 shows with 0 episodes in library 'TV New' with total size of 0.00 GB
+2025-11-27 10:39:54 [INFO] Processing TV library: TV Shows
+2025-11-27 10:39:54 [INFO] Processing TV library 'TV Shows'...
+2025-11-27 10:39:54 [INFO] Found 326 shows to process
+2025-11-27 10:39:55 [INFO] Processed 10/326 shows (3.1%)
+2025-11-27 10:39:55 [INFO] Processed 20/326 shows (6.1%)
+2025-11-27 10:39:55 [INFO] Processed 30/326 shows (9.2%)
+2025-11-27 10:39:57 [INFO] Processed 40/326 shows (12.3%)
+2025-11-27 10:39:57 [INFO] Processed 50/326 shows (15.3%)
+2025-11-27 10:39:57 [INFO] Processed 60/326 shows (18.4%)
+2025-11-27 10:39:57 [INFO] Processed 70/326 shows (21.5%)
+2025-11-27 10:39:58 [INFO] Processed 80/326 shows (24.5%)
+2025-11-27 10:39:58 [INFO] Processed 90/326 shows (27.6%)
+2025-11-27 10:39:59 [INFO] Processed 100/326 shows (30.7%)
+2025-11-27 10:39:59 [INFO] Processed 110/326 shows (33.7%)
+2025-11-27 10:39:59 [INFO] Processed 120/326 shows (36.8%)
+2025-11-27 10:40:00 [INFO] Processed 130/326 shows (39.9%)
+2025-11-27 10:40:00 [INFO] Processed 140/326 shows (42.9%)
+2025-11-27 10:40:00 [INFO] Processed 150/326 shows (46.0%)
+2025-11-27 10:40:00 [INFO] Processed 160/326 shows (49.1%)
+2025-11-27 10:40:01 [INFO] Processed 170/326 shows (52.1%)
+2025-11-27 10:40:01 [INFO] Processed 180/326 shows (55.2%)
+2025-11-27 10:40:01 [INFO] Processed 190/326 shows (58.3%)
+2025-11-27 10:40:01 [INFO] Processed 200/326 shows (61.3%)
+2025-11-27 10:40:01 [INFO] Processed 210/326 shows (64.4%)
+2025-11-27 10:40:02 [INFO] Processed 220/326 shows (67.5%)
+2025-11-27 10:40:02 [INFO] Processed 230/326 shows (70.6%)
+2025-11-27 10:40:02 [INFO] Processed 240/326 shows (73.6%)
+2025-11-27 10:40:02 [INFO] Processed 250/326 shows (76.7%)
+2025-11-27 10:40:03 [INFO] Processed 260/326 shows (79.8%)
+2025-11-27 10:40:03 [INFO] Processed 270/326 shows (82.8%)
+2025-11-27 10:40:03 [INFO] Processed 280/326 shows (85.9%)
+2025-11-27 10:40:03 [INFO] Processed 290/326 shows (89.0%)
+2025-11-27 10:40:03 [INFO] Processed 300/326 shows (92.0%)
+2025-11-27 10:40:04 [INFO] Processed 310/326 shows (95.1%)
+2025-11-27 10:40:04 [INFO] Processed 320/326 shows (98.2%)
+2025-11-27 10:40:04 [INFO] Processed 326/326 shows (100.0%)
+2025-11-27 10:40:04 [INFO] Processed 326 shows with 7694 episodes in library 'TV Shows' with total size of 11357.72 GB
+2025-11-27 10:40:05 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml
+2025-11-27 10:40:05 [INFO] Processing TV library: TV ShowsT
+2025-11-27 10:40:05 [INFO] Processing TV library 'TV ShowsT'...
+2025-11-27 10:40:05 [INFO] Found 7 shows to process
+2025-11-27 10:40:05 [INFO] Processed 7/7 shows (100.0%)
+2025-11-27 10:40:05 [INFO] Processed 7 shows with 86 episodes in library 'TV ShowsT' with total size of 10.47 GB
+2025-11-27 10:40:05 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml
+2025-11-27 10:40:05 [INFO] Size Overlay service completed in 11.5 seconds
+2025-11-27 10:40:05 [INFO] Processed 685 movies and 333 shows with 7780 episodes
+2025-11-27 10:40:05 [INFO] Total media size: 18076.33 GB (0.00 GB change)
+2025-11-27 10:40:05 [INFO] Created 3 overlay files
+2025-11-27 10:40:05 [INFO] Sent notification about Size Overlay updates
+2025-11-27 10:40:05 [INFO] Size Overlay service completed successfully. Created 3 overlay files.
+2025-11-27 11:07:09 [INFO] Size Overlay service started at 2025-11-27 11:07:09
+2025-11-27 11:07:09 [INFO] Connecting to Plex server...
+2025-11-27 11:07:09 [INFO] Connected to Plex server successfully!
+2025-11-27 11:07:09 [INFO] Found 6 libraries in Plex
+2025-11-27 11:07:09 [INFO] Processing movie library: Movies
+2025-11-27 11:07:09 [INFO] Processing movie library 'Movies'...
+2025-11-27 11:07:10 [INFO] Found 685 movies to process
+2025-11-27 11:07:10 [INFO] Processed 50/685 movies (7.3%)
+2025-11-27 11:07:10 [INFO] Processed 100/685 movies (14.6%)
+2025-11-27 11:07:10 [INFO] Processed 150/685 movies (21.9%)
+2025-11-27 11:07:10 [INFO] Processed 200/685 movies (29.2%)
+2025-11-27 11:07:10 [INFO] Processed 250/685 movies (36.5%)
+2025-11-27 11:07:10 [INFO] Processed 300/685 movies (43.8%)
+2025-11-27 11:07:10 [INFO] Processed 350/685 movies (51.1%)
+2025-11-27 11:07:10 [INFO] Processed 400/685 movies (58.4%)
+2025-11-27 11:07:10 [INFO] Processed 450/685 movies (65.7%)
+2025-11-27 11:07:10 [INFO] Processed 500/685 movies (73.0%)
+2025-11-27 11:07:10 [INFO] Processed 550/685 movies (80.3%)
+2025-11-27 11:07:10 [INFO] Processed 600/685 movies (87.6%)
+2025-11-27 11:07:10 [INFO] Processed 650/685 movies (94.9%)
+2025-11-27 11:07:10 [INFO] Processed 685/685 movies (100.0%)
+2025-11-27 11:07:10 [INFO] Processed 685 movies in library 'Movies' with total size of 6708.14 GB
+2025-11-27 11:07:10 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-movies.yml
+2025-11-27 11:07:10 [INFO] Processing movie library: Movies New
+2025-11-27 11:07:10 [INFO] Processing movie library 'Movies New'...
+2025-11-27 11:07:10 [INFO] Found 0 movies to process
+2025-11-27 11:07:10 [INFO] Processed 0 movies in library 'Movies New' with total size of 0.00 GB
+2025-11-27 11:07:10 [INFO] Processing TV library: TV New
+2025-11-27 11:07:10 [INFO] Processing TV library 'TV New'...
+2025-11-27 11:07:10 [INFO] Found 0 shows to process
+2025-11-27 11:07:10 [INFO] Processed 0 shows with 0 episodes in library 'TV New' with total size of 0.00 GB
+2025-11-27 11:07:10 [INFO] Processing TV library: TV Shows
+2025-11-27 11:07:10 [INFO] Processing TV library 'TV Shows'...
+2025-11-27 11:07:10 [INFO] Found 326 shows to process
+2025-11-27 11:07:11 [INFO] Processed 10/326 shows (3.1%)
+2025-11-27 11:07:11 [INFO] Processed 20/326 shows (6.1%)
+2025-11-27 11:07:11 [INFO] Processed 30/326 shows (9.2%)
+2025-11-27 11:07:13 [INFO] Processed 40/326 shows (12.3%)
+2025-11-27 11:07:13 [INFO] Processed 50/326 shows (15.3%)
+2025-11-27 11:07:13 [INFO] Processed 60/326 shows (18.4%)
+2025-11-27 11:07:13 [INFO] Processed 70/326 shows (21.5%)
+2025-11-27 11:07:14 [INFO] Processed 80/326 shows (24.5%)
+2025-11-27 11:07:14 [INFO] Processed 90/326 shows (27.6%)
+2025-11-27 11:07:14 [INFO] Processed 100/326 shows (30.7%)
+2025-11-27 11:07:15 [INFO] Processed 110/326 shows (33.7%)
+2025-11-27 11:07:15 [INFO] Processed 120/326 shows (36.8%)
+2025-11-27 11:07:16 [INFO] Processed 130/326 shows (39.9%)
+2025-11-27 11:07:16 [INFO] Processed 140/326 shows (42.9%)
+2025-11-27 11:07:16 [INFO] Processed 150/326 shows (46.0%)
+2025-11-27 11:07:16 [INFO] Processed 160/326 shows (49.1%)
+2025-11-27 11:07:16 [INFO] Processed 170/326 shows (52.1%)
+2025-11-27 11:07:17 [INFO] Processed 180/326 shows (55.2%)
+2025-11-27 11:07:17 [INFO] Processed 190/326 shows (58.3%)
+2025-11-27 11:07:17 [INFO] Processed 200/326 shows (61.3%)
+2025-11-27 11:07:17 [INFO] Processed 210/326 shows (64.4%)
+2025-11-27 11:07:17 [INFO] Processed 220/326 shows (67.5%)
+2025-11-27 11:07:18 [INFO] Processed 230/326 shows (70.6%)
+2025-11-27 11:07:18 [INFO] Processed 240/326 shows (73.6%)
+2025-11-27 11:07:18 [INFO] Processed 250/326 shows (76.7%)
+2025-11-27 11:07:18 [INFO] Processed 260/326 shows (79.8%)
+2025-11-27 11:07:19 [INFO] Processed 270/326 shows (82.8%)
+2025-11-27 11:07:19 [INFO] Processed 280/326 shows (85.9%)
+2025-11-27 11:07:19 [INFO] Processed 290/326 shows (89.0%)
+2025-11-27 11:07:19 [INFO] Processed 300/326 shows (92.0%)
+2025-11-27 11:07:19 [INFO] Processed 310/326 shows (95.1%)
+2025-11-27 11:07:20 [INFO] Processed 320/326 shows (98.2%)
+2025-11-27 11:07:20 [INFO] Processed 326/326 shows (100.0%)
+2025-11-27 11:07:20 [INFO] Processed 326 shows with 7694 episodes in library 'TV Shows' with total size of 11357.72 GB
+2025-11-27 11:07:20 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-tv-shows.yml
+2025-11-27 11:07:20 [INFO] Processing TV library: TV ShowsT
+2025-11-27 11:07:20 [INFO] Processing TV library 'TV ShowsT'...
+2025-11-27 11:07:20 [INFO] Found 7 shows to process
+2025-11-27 11:07:20 [INFO] Processed 7/7 shows (100.0%)
+2025-11-27 11:07:20 [INFO] Processed 7 shows with 86 episodes in library 'TV ShowsT' with total size of 10.47 GB
+2025-11-27 11:07:20 [INFO] Successfully wrote overlay file: /home/rick/Kometa/config/overlays/size-overlays-tv-showst.yml
+2025-11-27 11:07:20 [INFO] Size Overlay service completed in 11.3 seconds
+2025-11-27 11:07:20 [INFO] Processed 685 movies and 333 shows with 7780 episodes
+2025-11-27 11:07:20 [INFO] Total media size: 18076.33 GB (0.00 GB change)
+2025-11-27 11:07:20 [INFO] Created 3 overlay files
+2025-11-27 11:07:21 [INFO] Sent notification about Size Overlay updates
+2025-11-27 11:07:21 [INFO] Size Overlay service completed successfully. Created 3 overlay files.

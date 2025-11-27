@@ -1,0 +1,106 @@
+date_format: DD/MM
+kometa_config:
+  asset_directory: /home/rick/Kometa/config/assets
+  collections_dir: /home/rick/Kometa/config/collections
+  font_directory: /home/rick/Kometa/config/fonts
+  yaml_output_dir: /home/rick/Kometa/config/overlays
+lists:
+  default_privacy: private
+notifications:
+  discord:
+    webhook_url: https://discord.com/api/webhooks/1430719574193737738/piB7KZilnxC21L4_F5KtrGXaJfeWsxOcWwaPUvqMp8LCa7qvFJyylz24KbaaX2OgDDRo
+  enabled: true
+plex:
+  libraries:
+    anime: []
+    movie:
+    - Movies New
+    tv:
+    - TV New
+  token: sszrsBs31Z9H7SdBZZFH
+  url: http://192.168.1.88:32400
+scheduler:
+  size_overlay:
+    times: ["01:00"]
+    type: daily
+  tv_status_tracker:
+    times: ['01:30']
+    type: daily
+services:
+  anime_episode_type:
+    enabled: false
+    overlay:
+      back_color: '#262626'
+      back_height: 125
+      back_width: 1920
+      font_size: 75
+      horizontal_align: center
+      horizontal_offset: 0
+      vertical_align: top
+      vertical_offset: 0
+  size_overlay:
+    anime_libraries: []
+    enabled: true
+    movie_libraries:
+    - Movies New
+    movie_overlay:
+      apply_gradient_background: false
+      back_color: '#00000060'
+      back_height: 80
+      back_width: 210
+      font_color: '#FFFFFF'
+      font_path: config/fonts/Juventus-Fans-Bold.ttf
+      font_size: 65
+      gradient_name: gradient_top.png
+      horizontal_align: left
+      horizontal_offset: 10
+      vertical_align: top
+      vertical_offset: 108
+    show_overlay:
+      apply_gradient_background: false
+      back_color: '#00000099'
+      back_height: 80
+      back_width: 600
+      font_color: '#FFFFFF'
+      font_path: config/fonts/Juventus-Fans-Bold.ttf
+      font_size: 65
+      gradient_name: gradient_bottom.png
+      horizontal_align: left
+      horizontal_offset: 3
+      show_episode_count: true
+      vertical_align: top
+      vertical_offset: 95
+    tv_libraries:
+    - TV New
+  tv_status_tracker:
+    colors:
+      AIRING: '#00658099'
+      CANCELLED: '#AF000099'
+      ENDED: '#00000099'
+      FINAL_EPISODE: '#8B000099'
+      MID_SEASON_FINALE: '#FFA50099'
+      RETURNING: '#00800099'
+      SEASON_FINALE: '#9932CC99'
+      SEASON_PREMIERE: '#228B2299'
+    enabled: true
+    libraries:
+    - TV New
+    overlay:
+      apply_gradient_background: false
+      back_height: 90
+      back_width: 500
+      color: '#FFFFFF'
+      font_name: Juventus-Fans-Bold.ttf
+      font_size: 65
+      gradient_name: gradient_top.png
+      horizontal_align: left
+      horizontal_offset: 318
+      overlay_style: background_color
+      vertical_align: top
+      vertical_offset: 0
+timezone: Australia/Perth
+trakt:
+  client_id: 07f3c6451be9bc686da61891293908d5517df7bf56e5cf23ef425d02d43b236a
+  client_secret: aba1ec33609eefcebfe1b6ffa6bc3dda6b1d448481eafe26574d634ebce91534
+  redirect_uri: urn:ietf:wg:oauth:2.0:oob
+  username: Snupple
